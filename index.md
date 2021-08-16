@@ -7,32 +7,30 @@ nav_order: 1
 
 # WORKSHOP TITLE HERE (Use Regular Case Like this)
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 12 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 70 min
 
-## Why TOOL NAME HERE? 
+## Why TinkerCad? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/) Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[TinkerCad](http://tinkercad.com){:target="_blank"} is ....
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+## Learning objectives
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+Participants will be able to do the following by the end of this workshop:
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+1. Be able to add shapes and text to the TinkerCad workplace.
+2. Be able to move around by: Turning, Zooming, Panning, Reset view, Move, and Undo.
+3. Be able to resize and rotate objects using object sliders.
+4. Be able to extrude from objects, or make holes in them.
+5. Be able to bevel or round object edges.
+6. Be able to group objects together into one object.
+7. Know how to use the ruler and align tools.
+8. Be able to duplicate objects, including repeating patterns.
+9. Be able to Create dice, personalized keychain, game piece, or similar design by the end of the workshop.
+10. Export to STL format for 3D printing.
+11. Find previously designed models they are interested in on Thingiverse and Sketchfab.
+12. Be able to select appropriate settings for printing specific models (orientation, raft, supports, infill density, layer height).
+13. Understand the procedures for printing on the DSC printers, including how to submit a print job and pay for it.
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
-
-At the end of this workshop, you will be able to:
-
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
- 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
