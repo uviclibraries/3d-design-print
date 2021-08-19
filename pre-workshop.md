@@ -3,7 +3,7 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
+## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with TinkerCad in order to learn to use key features of the software and be able to create your own 3D designs. To participate fully please do the following **before the workshop**:
 
 **25 minutes.**<br>
@@ -12,16 +12,18 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
-- Design & Print Tips: http://bit.ly/2Vwp4Vb 
-- Keychain activity: http://bit.ly/2ZDgT6M  
-- Cellphone keychain stand: http://bit.ly/2CE3VU 
-- Game piece activity: http://bit.ly/2CVHDpO 
-- Magic Wand activity: http://bit.ly/36rbkwH 
-- Dice activity: http://bit.ly/33ZMVg3  
-- Heart-shaped box activity: http://bit.ly/2GzsNax 
-- Snowperson ornament activity: http://bit.ly/372mWGu   
-- Snowflake ornament activity: http://bit.ly/33YD7r 
-- Importing & Modifying STL files in TinkerCad: https://bit.ly/3a27MU5 
-
+- Setup a [TinkerCad Account](http://tinkercad.com){:target="_blank"} & follow along with at least the 2nd through 4th videos.
+- [Introduction to TinkerCad](https://www.youtube.com/watch?v=MwjWT-EvKSU){:target="_blank"} (just watch, don’t try to follow along) (3 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MwjWT-EvKSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [How to move around in TinkerCad](https://www.youtube.com/watch?v=wa37nrj0pH0){:target="_blank"} (1 min)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wa37nrj0pH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Move objects & change the grid](https://www.youtube.com/watch?v=Prpjk8dgf9I) {:target="_blank"} (2 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Prpjk8dgf9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Resize and Rotate objects](https://www.youtube.com/watch?v=o-bGROLcrMg) {:target="_blank"} (4 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-bGROLcrMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Copy, Paste, and Group](https://www.youtube.com/watch?v=rSjP0c7rLSU) {:target="_blank"} (3 min) 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rSjP0c7rLSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Align and Flip](https://www.youtube.com/watch?v=rgnvNXCh-mw) {:target="_blank"} (2 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rgnvNXCh-mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
