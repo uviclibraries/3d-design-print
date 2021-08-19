@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5- Dice activity
+title: 5- Dice Activity
 nav_order: 6
 parent: Workshop Activities
 ---
