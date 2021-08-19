@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Activities Introduction
+title: 1-Activities Introduction
 nav_order: 2
 parent: Workshop Activities
 ---
