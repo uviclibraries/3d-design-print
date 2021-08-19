@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4- Game piece activity
+title: 4- Game Piece Activity
 nav_order: 5
 parent: Workshop Activities
 ---
