@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Introduction to 3D Design and Print with TinkerCad
 
 - Pre-workshop activities: 12 min 
 - Introductory presentation: 10 min
