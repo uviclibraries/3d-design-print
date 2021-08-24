@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="images/tinkercad-logo.png" style="float:right;width:220px;height:220px;"> 
+<img src="images/tinkercad-logo.png" style="float:right;width:350px;height:220px;"> 
 
 # Introduction to 3D Design and Print with TinkerCad
 
