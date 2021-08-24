@@ -9,47 +9,32 @@ parent: Workshop Activities
 
 2. Make a heart:
 - Grab a **Heart** from the **Basic Shapes** panel on the right and drag it onto the workplane.
-Resize the heart so that its length and width are both 80mm by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “80” in the fields). 
-Change the height of the heart to 30mm by clicking on the handle in the middle of the heart. 
+- Resize the heart so that its length and width are both **80mm** by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “**80**” in the fields). 
+- Change the height of the heart to **30mm** by clicking on the handle in the middle of the heart. 
 
-Make a second heart:
-Duplicate the heart by clicking Duplicate  at the top-left of the screen or by clicking Ctrl + D.
-Resize the heart so that its length and width are both 70mm by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “70” in the fields). 
-Raise this heart 2mm from the workplane by dragging the small black “cone” on the top of the heart upwards.
+3. Make a second heart:
+- Duplicate the heart by clicking **Duplicate** at the top-left of the screen or by clicking **Ctrl + D**.
+- Resize the heart so that its length and width are both **70mm** by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “**70**” in the fields). 
+- Raise this heart **2mm** from the workplane by dragging the small black “cone” on the top of the heart upwards.
 
-Make a copy for the lid:
-Select both hearts by holding down the Shift key and clicking them. 
-Click on Duplicate and drag the new hearts to a clear area on the workplane.
-There should now be four hearts on the workplane.
+4. Make a copy for the lid:
+- Select both hearts by holding down the Shift key and clicking them. 
+- Click on **Duplicate** and drag the new hearts to a clear area on the workplane.
+- There should now be four hearts on the workplane.
 
-Make the box out of one set of hearts:
-Make the smaller heart a hole by changing the Shape from Solid to Hole at the top-right of the screen.
-Select both hearts and click Align  at the top-right of the screen.
-Click on the two middle black circular handles to bring the hearts into alignment.
-Click Group  at the top-right of the screen to combine the objects into one.
+5. Make the box out of one set of hearts:
+- Make the smaller heart a hole by changing the **Shape** from **Solid** to **Hole** at the top-right of the screen.
+- Select both hearts and click **Align** at the top-right of the screen.
+- Click on the two middle black circular handles to bring the hearts into alignment.
+- Click **Group** at the top-right of the screen to combine the objects into one.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Make the lid out of the second set of hearts:
-Change the height of the larger heart to 3mm by clicking on the white square handle in the middle of the heart.
-Change the height of the smaller heart to 6mm.
-Resize the smaller heart so that its length and width are both 68mm by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “68” in the fields). This allows the lid to fit easily in the box.
-Select both hearts and click Align  at the top-right of the screen.
-Click on the two middle black circular handles to bring the hearts into alignment.
-Click Group  to combine the objects into one.
+6. Make the lid out of the second set of hearts:
+- Change the height of the larger heart to **3mm** by clicking on the white square handle in the middle of the heart.
+- Change the height of the smaller heart to **6mm**.
+- Resize the smaller heart so that its length and width are both **68mm** by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “**68**” in the fields). This allows the lid to fit easily in the box.
+- Select both hearts and click **Align** at the top-right of the screen.
+- Click on the two middle black circular handles to bring the hearts into alignment.
+- Click Group to combine the objects into one.
 
 
 
