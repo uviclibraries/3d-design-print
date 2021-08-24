@@ -27,13 +27,14 @@ If you and your group have any questions or get stuck as you work through this i
 ![Image example after grouping](images/tinkercad-keychain-12.png)
 ![Demonstration of Step 9](images/tinkercad-keychain-13.gif)
 10. <img src="images/tinkercad-keychain-14.png" style="float:right;width:250px" alt="Group icon"> The last thing we need to do is to add a loop to your text so you can more easily hang your new design on your key ring. Start by clicking on **Text and Numbers** in the right panel, and then select **Basic Shapes**. This will display basic geometric shapes for us again.  Select the orange cylinder and drag and drop it into the workplane.
+![Demonstration of Step 10](images/tinkercad-keychain-15.gif)
 11. Once the cylinder is in the workspace we need to resize. Start by selecting the cylinder, and then (A) clicking on **white handle** at the bottom right which will turn it red. (B) Now click on the **20.00** and change it to **10**. (C) Click on the other **20.00** and change it to **10** as well.  (D) Next select the **white dot** at the top of the cylinder (it will turn red), and then (E) change the **20.00** to **6** and press enter.
-![Cylinder with measurements of A,B,C](images/tinkercad-keychain-15.png)![Cylinder with measurements of D,E](images/tinkercad-keychain-16.png)
-![Demonstration of Step 11](images/tinkercad-keychain-17.gif)
-12. <img src="images/tinkercad-keychain-17.png" style="float:right;width:250px" alt="grey stripped cylinder"> Next we need to make a hole in the middle of the cylinder, so we’ll grab a grey striped cylinder and drop it on the workplane.  Now select the bottom right “handle” and change both the width and depth dimensions from **20.00** to **6**.
-13. <img src="images/tinkercad-keychain-18.png" style="float:right;width:250px" alt="Group icon">Drag and drop the grey cylinder into the middle of the orange cylinder.  Now select both cylinders and the text and then press the **Group** button on the top toolbar. 
-![Demonstration of Step 13](images/tinkercad-keychain-19.gif)
+![Cylinder with measurements of A,B,C](images/tinkercad-keychain-16.png)![Cylinder with measurements of D,E](images/tinkercad-keychain-17.png)
+![Demonstration of Step 11](images/tinkercad-keychain-18.gif)
+12. <img src="images/tinkercad-keychain-19.png" style="float:right;width:250px" alt="grey stripped cylinder"> Next we need to make a hole in the middle of the cylinder, so we’ll grab a grey striped cylinder and drop it on the workplane.  Now select the bottom right “handle” and change both the width and depth dimensions from **20.00** to **6**.
+13. <img src="images/tinkercad-keychain-20.png" style="float:right;width:250px" alt="Group icon">Drag and drop the grey cylinder into the middle of the orange cylinder.  Now select both cylinders and the text and then press the **Group** button on the top toolbar. 
+![Demonstration of Step 13](images/tinkercad-keychain-21.gif)
 14. Lastly, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
-![Final product example](images/tinkercad-keychain-20.png)
+![Final product example](images/tinkercad-keychain-22.png)
 
 [NEXT STEP: Cellphone Keychain Stand](keychain-stand.html){: .btn .btn-blue }
