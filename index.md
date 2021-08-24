@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
+<img src="images/tinkercad-logo.png" style="float:right;width:180px;height:180px;"> 
 
 # Introduction to 3D Design and Print with TinkerCad
 
@@ -32,5 +32,6 @@ Participants will be able to do the following by the end of this workshop:
 11. Find previously designed models they are interested in on Thingiverse and Sketchfab.
 12. Be able to select appropriate settings for printing specific models (orientation, raft, supports, infill density, layer height).
 13. Understand the procedures for printing on the DSC printers, including how to submit a print job and pay for it.
+![TinkerCad Class Image](images/tinkercad-logo-01.png)
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
