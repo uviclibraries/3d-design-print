@@ -34,50 +34,21 @@ parent: Workshop Activities
 - Resize the smaller heart so that its length and width are both **68mm** by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “**68**” in the fields). This allows the lid to fit easily in the box.
 - Select both hearts and click **Align** at the top-right of the screen.
 - Click on the two middle black circular handles to bring the hearts into alignment.
-- Click Group to combine the objects into one.
+- Click **Group** to combine the objects into one.
 
+7. **OPTIONAL**: Place text on the inside of the lid. 
+- Grab a **Text** from the **Basic Shapes** panel on the right and drag it onto the workplane.
+- Write whatever is to be written on the inside of the box in the **Text** field. 
+- Change the Bevel to approximately **1**. This makes the text thicker and therefore easier to 3D print.
+- Resize the length and width to be small enough to fit on the inside of the lid. 
+- Drag the text into the lid. 
+- Select the text and the heart, then click Align  at the top-right of the screen.
+- Click on the two middle black circular handles to bring the hearts into alignment.
+- Select the text and the lid, then click **Group**. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-OPTIONAL: Place text on the inside of the lid. 
-Grab a Text from the Basic Shapes panel on the right and drag it onto the workplane.
-Write whatever is to be written on the inside of the box in the Text field. 
-Change the Bevel to approximately 1. This makes the text thicker and therefore easier to 3D print.
-Resize the length and width to be small enough to fit on the inside of the lid. 
-Drag the text into the lid. 
-Select the text and the heart, then click Align  at the top-right of the screen.
-Click on the two middle black circular handles to bring the hearts into alignment.
-Select the text and the lid, then click Group. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Export your design as 3D printable files:
-Select the main box. 
-Click on the “Export” button on the top right of the toolbar. Select the option include “the selected shape” and then select “.STL” and save the file to your computer.
-Repeat with the lid. 
+8. Export your design as 3D printable files:
+- Select the main box. 
+- Click on the “**Export**” button on the top right of the toolbar. Select the option include “the selected shape” and then select “**.STL**” and save the file to your computer.
+- **Repeat with the lid**. 
 
 [NEXT STEP: Snowperson Ornament Activity](snowperson-activity.html){: .btn .btn-blue }
