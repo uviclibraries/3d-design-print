@@ -10,9 +10,9 @@ parent: Workshop Activities
 
 2. From the **Basic Shapes**, grab a box and place it on the workplane. 
 - **Select** the **white handles** and change it to a rectangle that is **5mm** tall by **5mm** wide and **55mm** long.<br>
-<img src="images/tinkercad-snowflake-02.png" style="width:220px" alt="Image of rectangle measurements">
+<img src="images/tinkercad-snowflake-02.png" style="width:400px" alt="Image of rectangle measurements">
 ![Demonstration of Step 2](images/tinkercad-snowflake-03.gif)
-3. From the **Basic Shapes**, **select** a second box and place it on the workplane. <img src="images/tinkercad-snowflake-04.png" style="float:right;width:180px" alt="L shape">
+3. From the **Basic Shapes**, **select** a second box and place it on the workplane. <img src="images/tinkercad-snowflake-04.png" style="float:right;width:250px" alt="L shape">
 - Make it **5mm** tall by **5mm** wide and **14mm** long. 
 - **Duplicate** it. Using the **curved black arrow**, **rotate** the new shape **90 degrees**.
 - **Align** the two shapes together like an ‘L’. 
@@ -22,14 +22,14 @@ parent: Workshop Activities
 4. **Rotate** the corner you just created 45 degrees, and **Align** it to one side of your rectangle to create a “leaf” (see to the right). 
 - **Rotate** the other corner **180** degrees and align to the other end of the rectangle. 
 - **Group** these three items.
-- Make **two** more copies of this shape
-<img src="images/tinkercad-snowflake-06.png" style="width:220px" alt="Image of ends of rectangle, leaf">
+- Make **two** more copies of this shape.<br>
+<img src="images/tinkercad-snowflake-06.png" style="width:400px" alt="Image of ends of rectangle, leaf">
 ![Demonstration of Step 4](images/tinkercad-snowflake-07.gif)
 5. In the **Basic Shapes** menu, **select a polygon** and place it onto the Workplane. 
 - Leave it with 6 sides, as a hexagon
 - **Decrease** the height to **5mm**. 
-- **Align** it to the center of the leaf. 
-<img src="images/tinkercad-snowflake-08.png" style="width:220px" alt="Image of shape with polygon added">
+- **Align** it to the center of the leaf.<br>
+<img src="images/tinkercad-snowflake-08.png" style="width:400px" alt="Image of shape with polygon added">
 ![Demonstration of Step 5](images/tinkercad-snowflake-09.gif)
 6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like so
 <img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
