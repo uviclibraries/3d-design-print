@@ -26,6 +26,7 @@ If you and your group have any questions or get stuck as you work through this i
 <img src="images/tinkercad-dice-11.png" style="float:right;width:200px" alt="dice layout">
 9. Do the same with each of the other numbers. If you want your die to look like a standard die, use the guide to the right. A good rule of thumb is that the opposite side of a die should add up to 7.  So because we put the “**1**” on the die first, the opposite side should have the “**6**” on it.
 10. Once you have all the number is position around the die, it should look like this: 
+<img src="images/tinkercad-dice-12.png" style="float:right;width:300px" alt="dice example">
 11. Congratulations, you’ve made a die that’s ready to be exported and printed on a 3D printer!
 12. Lastly, click on the “**Export**” button on the top right of the toolbar, and then select “**.STL**” and save the file to your hard drive so you can 3D print your custom die!
 13. OPTIONAL: Feel free to stop here, but if you’re up for an interesting challenge, let’s make a loaded die that will be biased towards one of the six numbers on the die. Start by making a copy of your dice and then put an empty space behind one of the numbers, causing it to be lighter on one side and therefore more often land with that number up. Ask your instructor for pointers on how to do this.
