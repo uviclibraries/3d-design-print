@@ -27,19 +27,20 @@ parent: Workshop Activities
   - Stretch the duplicate to 25mm across the bottom dimensions. 
   - Stretch the height to 6mm by selecting the white handle on the top of the 25mm disk. 
   - “**Align**” both disks and group.
-![Demonstration of Step 5](images/tinkercad-game-06.gif)
-<img src="images/tinkercad-game-07.png" style="float:right;width:200px" alt="cone">
+![Demonstration of Step 5](images/tinkercad-game-07.gif)
+<img src="images/tinkercad-game-08.png" style="float:right;width:200px" alt="cone">
 6. Drag a new cone onto the workplane:
   - Stretch it to 23mm for both bottom dimensions.
   - Stretch to 34mm tall
   - Align all objects and “**group**”. 
-<img src="images/tinkercad-game-08.png" style="float:right;width:200px" alt="cone with sphere on top">
+![Demonstration of Step 6](images/tinkercad-game-09.gif)
+<img src="images/tinkercad-game-10.png" style="float:right;width:200px" alt="cone with sphere on top">
 7. Add something fun to the top of your game piece:
   - Drag a sphere (or another interesting shape) to the workplane:
   - Shrink the shape down so the base and height measurements are all 11mm. 
   - Raise the sphere 25mm from the workplane, by grabbing the black hat on top of the cone upwards.
   - “**Align**” all shapes on workplane & then “**Group**” all pieces together
-![Demonstration of Step 7](images/tinkercad-game-09.gif)
+![Demonstration of Step 7](images/tinkercad-game-11.gif)
 8. Lastly, click on the “**Export**” button on the top right of the toolbar, and then select “**.STL**” and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 
 [NEXT STEP: Dice Activity](dice-activity.html){: .btn .btn-blue }
