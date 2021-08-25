@@ -28,8 +28,7 @@ parent: Workshop Activities
   - Stretch the height to 6mm by selecting the white handle on the top of the 25mm disk. 
   - “**Align**” both disks and group.<br>
 ![Demonstration of Step 5](images/tinkercad-game-07.gif)
-<img src="images/tinkercad-game-08.png" style="float:right;width:200px" alt="cone">
-6. Drag a new cone onto the workplane:
+6. Drag a new cone onto the workplane:<img src="images/tinkercad-game-08.png" style="float:right;width:200px" alt="cone">
   - Stretch it to 23mm for both bottom dimensions.
   - Stretch to 34mm tall
   - Align all objects and “**group**”. 
