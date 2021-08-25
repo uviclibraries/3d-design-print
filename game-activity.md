@@ -4,14 +4,17 @@ title: 4- Game Piece Activity
 nav_order: 5
 parent: Workshop Activities
 ---
+<img src="images/tinkercad-game-01.png" style="float:right;width:220px;height:220px;" alt="cone with measurements">
 # Game Piece Activity
 1. Open up [TinkerCad](https://www.tinkercad.com/){:target="_blank"}, create an account or log-in. Open a new design. 
 2. Make the base of the piece:
   - Grab a cone from the basic shapes panel on the right and drag it on to the workplane. 
   - Stretch the cone so that it is 30mm for all three dimensions by dragging the white handles on the base and top of the cone (or by clicking on the handles and entering “**30**” in the fields).
-3. Drag and drop a cylinder “**hole**” from the basic shapes panel on the right.
+![Demonstration of Step 2](images/tinkercad-game-02.gif)
+3. <img src="images/tinkercad-game-03.png" style="float:right;width:220px;height:220px;" alt="cone cylinder"> Drag and drop a cylinder “**hole**” from the basic shapes panel on the right.
   - Change the size of the cylinder to 30mm for all three dimensions, by clicking on the cylinder & selecting the white corner handles. 
   - Raise this cylinder 3mm from the workplane by dragging the small black “cone” on the top of the cylinder upwards.
+![Demonstration of Step 3](images/tinkercad-game-0.3.gif)
 4. Group the cone and cylinder hole together
   - Select both the cone and cylinder. 
   - Select the align tool from the top menu and click on the two black centre handles on Workplane.
