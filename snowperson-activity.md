@@ -35,7 +35,7 @@ parent: Workshop Activities
 - Using the **white corner handles**, set all dimensions at **2.5mm**
 - Select the object. A **circular, black two-ended arrow** should pop up. Select that to rotate the shape **-90 degrees**.<br>
 ![Demonstration of Step 8](images/tinkercad-snowperson-07.gif)
-9. <img src="images/tinkercad-snowperson-08.png" style="float:right;width:180px" alt="snowperson eyes"> Using **copy and paste**, duplicate this shape 5 times 
+9. <img src="images/tinkercad-snowperson-08.png" style="float:right;width:180px;height:180px" alt="snowperson eyes"> Using **copy and paste**, duplicate this shape 5 times 
 - Select the **black triangle** on top of each cylinder to raise it to the height of the spheres. Attach them on to make a face (or buttons!)
 - You can shrink and rotate here to make your smiley face look nice however you like
 10. Now, your snowperson needs a hat! 
