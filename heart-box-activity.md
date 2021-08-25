@@ -23,9 +23,9 @@ parent: Workshop Activities
 - Click on **Duplicate** and drag the new hearts to a clear area on the workplane.
 - There should now be four hearts on the workplane.
 ![Demonstration of Step 4](images/tinkercad-box-05.gif)
-5. Make the box out of one set of hearts: <img src="images/tinkercad-box-06.png" style="float:right;width:120px" alt="solid vs hole icons"> 
+5. Make the box out of one set of hearts: <img src="images/tinkercad-box-06.png" style="float:right;width:150px;height:80px" alt="solid vs hole icons"> 
 - Make the smaller heart a hole by changing the **Shape** from **Solid** to **Hole** at the top-right of the screen.
-- Select both hearts and click **Align** at the top-right of the screen.<img src="images/tinkercad-box-07.png" style="float:right;width:150px" alt="heart box alignment"> 
+- Select both hearts and click **Align** at the top-right of the screen.<img src="images/tinkercad-box-07.png" style="float:right;width:150px;height:100px" alt="heart box alignment"> 
 - Click on the two middle black circular handles to bring the hearts into alignment.
 - Click **Group** at the top-right of the screen to combine the objects into one.<img src="images/tinkercad-box-08.png" style="float:right;width:140px" alt="heart box grouping"> 
 ![Demonstration of Step 5](images/tinkercad-box-09.gif)
