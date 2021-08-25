@@ -26,7 +26,7 @@ parent: Workshop Activities
   - Move the disk to reveal the duplicate underneath.
   - Stretch the duplicate to 25mm across the bottom dimensions. 
   - Stretch the height to 6mm by selecting the white handle on the top of the 25mm disk. 
-  - “**Align**” both disks and group.
+  - “**Align**” both disks and group.<br>
 ![Demonstration of Step 5](images/tinkercad-game-07.gif)
 <img src="images/tinkercad-game-08.png" style="float:right;width:200px" alt="cone">
 6. Drag a new cone onto the workplane:
@@ -34,7 +34,7 @@ parent: Workshop Activities
   - Stretch to 34mm tall
   - Align all objects and “**group**”. 
 ![Demonstration of Step 6](images/tinkercad-game-09.gif)
-<img src="images/tinkercad-game-10.png" style="float:right;width:200px" alt="cone with sphere on top">
+<img src="images/tinkercad-game-10.png" style="float:right;width:180px" alt="cone with sphere on top">
 7. Add something fun to the top of your game piece:
   - Drag a sphere (or another interesting shape) to the workplane:
   - Shrink the shape down so the base and height measurements are all 11mm. 
