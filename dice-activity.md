@@ -8,7 +8,7 @@ parent: Workshop Activities
 # Dice Activity
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
 1. If you haven’t already, please go to the [TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself
-2.<img src="images/tinkercad-dice-02.png" style="float:right;width:200px" alt="box measurements">  Click “**Create new design**”. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the **TinkerCad logo** at the top to bring you back to your main page. From there you should see the “**Create new design**” button. 
+2. Click “**Create new design**”.<img src="images/tinkercad-dice-02.png" style="float:right;width:200px" alt="box measurements">  If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the **TinkerCad logo** at the top to bring you back to your main page. From there you should see the “**Create new design**” button. 
 3. On the right side of the TinkerCad click on the “**Box**” and drag and drop it onto the workplane. 
 4. Select the box and then click on the white “**handle**” on the bottom right of the box (it will then turn red). Click on a “**20.00**” and replace it with “**18**” and press enter. Change the other “**20.00**” to “**18**” as well, and press enter. Do the same with the top centre handle to adjust the height to 18. We’ve now resized the box to about the right size for a dice. <img src="images/tinkercad-dice-03.png" style="float:right;width:200px" alt="radius label">
 
@@ -24,8 +24,7 @@ If you and your group have any questions or get stuck as you work through this i
 
 8. <img src="images/tinkercad-dice-09.png" style="float:right;width:180px" alt="hole of number 1 in dice"> Drag the number “**1**” over to the middle of the closest face of the die until it is almost flat with its surface. Grab the pointy arrow above the “**1**” and drag it up until the “**1**” is centered on the face of the die. You can use Align to help get everything centered. Click the “**Hole**” button on the “**Shape**” tool panel. Group the number and die.
 ![Demonstration of Step 8](images/tinkercad-dice-10.gif)
-9. Do the same with each of the other numbers. If you want your die to look like a standard die, use the guide to the right. A good rule of thumb is that the opposite side of a die should add up to 7.  So because we put the “**1**” on the die first, the opposite side should have the “**6**” on it.
-<img src="images/tinkercad-dice-11.png" style="float:right;width:200px" alt="dice layout"> 
+9. <img src="images/tinkercad-dice-11.png" style="float:right;width:200px" alt="dice layout"> Do the same with each of the other numbers. If you want your die to look like a standard die, use the guide to the right. A good rule of thumb is that the opposite side of a die should add up to 7.  So because we put the “**1**” on the die first, the opposite side should have the “**6**” on it.
 10. Once you have all the number is position around the die, it should look like this: 
 <img src="images/tinkercad-dice-12.png" style="float:right;width:300px" alt="dice example">
 
