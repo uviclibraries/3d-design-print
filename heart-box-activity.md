@@ -23,11 +23,11 @@ parent: Workshop Activities
 - Click on **Duplicate** and drag the new hearts to a clear area on the workplane.
 - There should now be four hearts on the workplane.
 ![Demonstration of Step 4](images/tinkercad-box-05.gif)
-5. Make the box out of one set of hearts: <img src="images/tinkercad-box-06.png" style="float:right;width:200px" alt="solid vs hole icons"> 
+5. Make the box out of one set of hearts: <img src="images/tinkercad-box-06.png" style="float:right;width:150px" alt="solid vs hole icons"> 
 - Make the smaller heart a hole by changing the **Shape** from **Solid** to **Hole** at the top-right of the screen.
-- Select both hearts and click **Align** at the top-right of the screen.<img src="images/tinkercad-box-07.png" style="float:right;width:180px" alt="heart box alignment"> 
+- Select both hearts and click **Align** at the top-right of the screen.<img src="images/tinkercad-box-07.png" style="float:right;width:150px" alt="heart box alignment"> 
 - Click on the two middle black circular handles to bring the hearts into alignment.
-- Click **Group** at the top-right of the screen to combine the objects into one.<img src="images/tinkercad-box-08.png" style="float:right;width:150px" alt="heart box grouping"> 
+- Click **Group** at the top-right of the screen to combine the objects into one.<img src="images/tinkercad-box-08.png" style="float:right;width:140px" alt="heart box grouping"> 
 ![Demonstration of Step 5](images/tinkercad-box-09.gif)
 6. Make the lid out of the second set of hearts: <img src="images/tinkercad-box-10.png" style="float:right;width:200px" alt="heart box lid"> 
 - Change the height of the larger heart to **3mm** by clicking on the white square handle in the middle of the heart.
@@ -50,7 +50,7 @@ parent: Workshop Activities
 8. Export your design as 3D printable files: <img src="images/tinkercad-box-15.png" style="float:right;width:300px" alt="menu selecting include the selected shape">
 - Select the main box. 
 - Click on the “**Export**” button on the top right of the toolbar. Select the option include “the selected shape” and then select “**.STL**” and save the file to your computer.
-- **Repeat with the lid**. 
+- **Repeat with the lid**.<br>
 ![Final product of project](images/tinkercad-box-16.png)
 
 [NEXT STEP: Snowperson Ornament Activity](snowperson-activity.html){: .btn .btn-blue }
