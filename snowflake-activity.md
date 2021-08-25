@@ -31,7 +31,7 @@ parent: Workshop Activities
 - **Align** it to the center of the leaf.<br>
 <img src="images/tinkercad-snowflake-08.png" style="width:400px" alt="Image of shape with polygon added">
 ![Demonstration of Step 5](images/tinkercad-snowflake-09.gif)
-6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like so
+6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like so.<br>
 <img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
 - With the third leaf, **rotate** it **-60 degrees**. **Align** it onto the hexagon
 - **Group** everything.<br>
