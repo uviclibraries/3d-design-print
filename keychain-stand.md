@@ -17,11 +17,11 @@ If you and your group have any questions or get stuck as you work through this i
     - Make sure that your box is selected and then in the **Shape** menu to the right of the screen change the **Radius** to “**2**” (see diagram to the right for details).
 ![Demonstration of Step 2](images/tinkercad-phone-03.gif)
 3. Measure the width of your phone:
-<img src="images/tinkercad-phone-04.png" style="float:right;width:220px;height:220px;">
+<img src="images/tinkercad-phone-04.png" style="float:right;width:220px;height:200px;">
     - Use a calliper tool so that you can measure the width of your cell phone. NOTE: If a calliper tool is not available, you can use a ruler to measure your phone thickness with the case on, and choose the closest one of the following most common sizes: 9mm, 11mm, 13mm, 15mm
     - Write down the width of your cell phone here, out to two decimal places: ______________
- <img src="images/tinkercad-phone-05.png" style="float:right;width:220px;">
     - Now add 0.5 to the width of your phone and write it here: _________ (E.g. if my phone was 8.50mm then I’d write 9.00mm)
+    <img src="images/tinkercad-phone-05.png" style="float:right;width:220px;">
 4. Create the notch for your phone and hole for keychain:
     - On the right side of the screen select the grey striped **Box** shape, and then **drag and drop** it on the build plate. 
     - Select the white handle at the top of the shape and drag it down to the height of “**10.00**”.
@@ -29,13 +29,13 @@ If you and your group have any questions or get stuck as you work through this i
     - Move the grey box so that it is flush with the edge of the red box, and 12mm away from the left side of the box. You can count the square boxes in order to measure the 12mm (as you can see to the right) or you can use the ruler function. Ask your instructor for assistance if you are unsure.
   ![Demonstration of Step 4](images/tinkercad-phone-06.gif) 
     - On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate. 
+       <img src="images/tinkercad-phone-07.png" style="float:right;width:220px;">
     - Select the **white handle** at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**5.00**” and “**5.00**”. 
     - Move this **grey cylinder** to the bottom right of the red box (as you can see to the right).
-     <img src="images/tinkercad-phone-07.png" style="float:right;width:220px;">
+      <img src="images/tinkercad-phone-08.png" style="float:right;width:220px;">
     - **Select all of the objects** on your build plate and then click on the **Group** button on the top menu.
     - Your cell phone holder should look like this!
-    <img src="images/tinkercad-phone-08.png" style="float:right;width:220px;">
      ![Demonstration of Step 4: Adding a cylinder](images/tinkercad-phone-09.gif) 
 5. **OPTIONAL**: You can customize your cell phone holder by embossing your name or something else on the top of it:
     - On the right side of the screen select the red **Text** shape, and then **drag and drop** it on the build plate. 
