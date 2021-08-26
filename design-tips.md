@@ -13,11 +13,11 @@ parent: Workshop Activities
 - Rotate view: click and drag with right mouse button (or two-finger click on some trackpads) 
 - Pan across build plate: Press and hold the Shift key while dragging with the right mouse button (or two-finger click on some trackpads) 
 
-## Align: <img src="images/tinkercad-tips-01.png" style="float:right;width:80px" alt="Align icon"><img src="images/tinkercad-tips-03.png" style="float:right;width:220px" alt="Aligning object">
+## Align: <img src="images/tinkercad-tips-02.png" style="float:right;width:80px" alt="Align icon"><img src="images/tinkercad-tips-03.png" style="float:right;width:200px" alt="Aligning object">
 - Select all objects you wish to align (you can do this by holding down the shift button while selecting each object).  Then click on the “Align” button in the toolbar.
 - This will bring up round handles at various alignment points. Click on the desired handle.
 
-## Lift an item up or down: <img src="images/tinkercad-tips-04.png" style="float:right;width:180px" alt="Rotation icons"><img src="images/tinkercad-tips-05.png" style="float:right;width:220px" alt="rotation arrow">
+## Lift an item up or down: <img src="images/tinkercad-tips-04.png" style="float:right;width:180px" alt="Rotation icons"><img src="images/tinkercad-tips-05.png" style="float:right;width:180px" alt="rotation arrow">
 - Click and drag the upward-pointing black arrow at the top of your object
 
 ## Rotate:
