@@ -12,13 +12,13 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MwjWT-EvKSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How to move around in TinkerCad](https://www.youtube.com/watch?v=wa37nrj0pH0){:target="_blank"} (1 min)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wa37nrj0pH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Move objects & change the grid](https://www.youtube.com/watch?v=Prpjk8dgf9I) {:target="_blank"} (2 min)
+- [Move objects & change the grid](https://www.youtube.com/watch?v=Prpjk8dgf9I){:target="_blank"} (2 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Prpjk8dgf9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Resize and Rotate objects](https://www.youtube.com/watch?v=o-bGROLcrMg) {:target="_blank"} (4 min)
+- [Resize and Rotate objects](https://www.youtube.com/watch?v=o-bGROLcrMg){:target="_blank"} (4 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-bGROLcrMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Copy, Paste, and Group](https://www.youtube.com/watch?v=rSjP0c7rLSU) {:target="_blank"} (3 min) 
+- [Copy, Paste, and Group](https://www.youtube.com/watch?v=rSjP0c7rLSU){:target="_blank"} (3 min) 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rSjP0c7rLSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Align and Flip](https://www.youtube.com/watch?v=rgnvNXCh-mw) {:target="_blank"} (2 min)
+- [Align and Flip](https://www.youtube.com/watch?v=rgnvNXCh-mw){:target="_blank"} (2 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rgnvNXCh-mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Pre-Class Preparation Quiz](http://bit.ly/2Ml9tTP){:target="_blank"}{: .btn .btn-purple }
 
