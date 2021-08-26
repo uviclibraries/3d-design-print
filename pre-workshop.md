@@ -20,6 +20,6 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rSjP0c7rLSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Align and Flip](https://www.youtube.com/watch?v=rgnvNXCh-mw){:target="_blank"} (2 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rgnvNXCh-mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [Pre-Class Preparation Quiz](http://bit.ly/2Ml9tTP){:target="_blank"}{: .btn .btn-purple }
+- [Are You Ready for the Hands-On Workshops Quiz](http://bit.ly/2Ml9tTP){:target="_blank"}{: .btn .btn-purple }
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
