@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## WORKSHOP NAME HERE Resources
+## 3D Print and Design with TinkerCad Resources
 Coming Soon!
 
 ## Acknowledgements
