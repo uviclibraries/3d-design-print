@@ -13,7 +13,7 @@ nav_order: 1
 
 ## Why TinkerCad? 
 
-[TinkerCad](http://tinkercad.com){:target="_blank"} is a user friendly surface that enables users to create digital designs, which then can be 3D printed and made into physical objects. TinkerCad is useful for all ages and levels, as its features are user friendly, free to save and use. TinkerCad makes 3D designing more accessible and grants the ability to publish designs under a Creative Commons license. In addition to this workshop, throughout TinkerCad there are numerous tutorials that model a hands-on approach to learning this software. 
+[TinkerCad](http://tinkercad.com){:target="_blank"} is a user friendly surface that enables users to create 3 dimensional digital designs, which then can be 3D printed and made into physical objects. TinkerCad is useful for all ages and levels, as its features are user friendly, free to save and use. TinkerCad makes 3D designing more accessible and grants the ability to publish designs under a Creative Commons license. In addition to this workshop, throughout TinkerCad there are numerous tutorials that model a hands-on approach to learning this software. 
 
 ## Learning objectives
 
