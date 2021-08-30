@@ -25,7 +25,7 @@ Participants will be able to do the following by the end of this workshop:
 4. Be able to extrude from objects, or make holes in them.
 5. Be able to bevel or round object edges.
 6. Be able to group objects together into one object.
-7. Know how to use the ruler and align tools.
+7. Use the ruler and align tools in their projects.
 8. Be able to duplicate objects, including repeating patterns.
 9. Be able to Create dice, personalized keychain, game piece, or similar design by the end of the workshop.
 10. Export to STL format for 3D printing.
