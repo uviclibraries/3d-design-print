@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-Keychain Activity
+title: 1-Keychain
 nav_order: 3
 parent: Workshop Activities
 ---
