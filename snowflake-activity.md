@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8- Snowflake Ornament Activity
+title: 7-Snowflake Ornament Activity
 nav_order: 9
 parent: Workshop Activities
 ---
