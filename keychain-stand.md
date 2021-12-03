@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3- Cellphone Keychain Stand
+title: 2-Cellphone Keychain Stand
 nav_order: 4
 parent: Workshop Activities
 ---
