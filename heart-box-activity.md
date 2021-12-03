@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6- Heart Shaped Box Activity
+title: 6-Heart Shaped Box
 nav_order: 7
 parent: Workshop Activities
 ---
