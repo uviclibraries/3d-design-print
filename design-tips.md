@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 10-Design Tips Handout
+title: 9-Design & Print Tips Handout
 nav_order: 11
 parent: Workshop Activities
 ---
