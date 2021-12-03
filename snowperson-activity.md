@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7- Snowperson Ornament Activity
+title: 6-Snowperson Ornament Activity
 nav_order: 8
 parent: Workshop Activities
 ---
