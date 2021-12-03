@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 9-Importing and Modifying STL in TinkerCad
+title: 8-Importing and Modifying STL in TinkerCad
 nav_order: 10
 parent: Workshop Activities
 ---
