@@ -16,7 +16,6 @@ If you and your group have any questions or get stuck as you work through this i
 ![Demonstration of Step 1-5](images/tinkercad-dice-04.gif)
 
 6. <img src="images/tinkercad-keychain-02b.png" style="float:right;width:180px" alt="drop down menu text and numbers"> Now that we have rounded edges, let’s put some numbers on this box and make it a die! On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**.  This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. Drag and drop numbers 1 through 6 onto the workplane.
-![Demonstration of Step 6](images/tinkercad-dice-06.gif)
 
 7. Click on the number “**1**” and then grab hold of the top rounded arrow, and drag it to the left until the “**1**” is vertical, and the degrees displayed equals “**90**.”
 <img src="images/tinkercad-dice-07.png" style="width:500px" alt="rotation of the number 1">
