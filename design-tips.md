@@ -31,4 +31,4 @@ parent: Workshop Activities
 ## To Print:
 - Go to [**https://oac.uvic.ca/dsc/how-to-3d-print/**](https://oac.uvic.ca/dsc/how-to-3d-print/){:target="_blank"}
 
-[NEXT STEP: Create a Block Puzzle](cube-puzzle.html){: .btn .btn-blue }
+[NEXT STEP: Create a Puzzle Cube](cube-puzzle.html){: .btn .btn-blue }
