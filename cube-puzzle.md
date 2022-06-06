@@ -1,13 +1,14 @@
 ---
 layout: default
-title: 10-Blocks Puzzle
+title: 10-Cube Puzzle
 nav_order: 12
 parent: Workshop Activities
 ---
 <img src="images/tinkercad-puzzle-07.png" style="float:right;width:200px;" alt="tinkercad logo"> 
-# Puzzle Blocks Activity 
-NOTE: This activity is a work in progress and is still in the testing phase. Feel free to give us your feedback! If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
-(NOTE #2: If you are attending in person, we are recreating the blocks from a puzzle block. If you are attending online, we are recreating the blocks from https://www.thingiverse.com/thing:1565383 Cube Puzzle SOMA, and you can download the file and import it into Tinkercad and recreate them. Let us know if you need assistance for this.)
+# Puzzle Cubes Activity 
+If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!
+
+(NOTE: If you are attending in person, we are recreating the blocks from puzzle cubes with 3D printed examples available on the tables. You can find ideas for classroom activities for this in the "Thing Details" Summary section of this page: https://www.thingiverse.com/thing:1565383. If you are attending online, we are recreating the puzzle cubes from that link, and you can download one of the STL files and import it into Tinkercad and recreate the blocks. Let us know if you need assistance for this.)
 1. If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 2. Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
 3. On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Basic Shapes** option if this is not already showing. This will display a list of 3D shapes that you can scroll down through. We will just be using the basic square block (in red) for this activity.
