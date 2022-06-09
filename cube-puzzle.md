@@ -20,4 +20,8 @@ If you and your group have any questions or get stuck as you work through this i
 8. <img src="images/tinkercad-puzzle-04.png" style="float:right;width:200px" alt="aligning the blocks"> Move the blocks together to form the shape you want. If you want to make sure it is properly aligned, select both blocks and then click on the **Align** button at the top (shaped like a graph). <img src="images/tinkercad-puzzle-05.png" style="float:right;width:200px" alt="aligning the blocks"> This will bring up little round, black handles along the edges of the blocks that can be used to align them at the points needed. Once you have the alignment desired, you can click on the **Group** button (looks like a square and circle blended together) to make them into a single shape. 
 9. <img src="images/tinkercad-puzzle-06.png" style="float:right;width:200px" alt="the final blocks in various colours"> Repeat steps 1-8 to create shapes to match the Puzzle. 
 10. <img src="images/tinkercad-puzzle-07.png" style="float:right;width:200px" alt="the blocks made into a cube"> You can test the puzzle in Tinkercad by moving the shapes around to fit them together to make a cube. 
+11. For more Educational ideas check out the following links or search "educational" on [Thingiverse](https://www.thingiverse.com){:target="_blank"}:
+ - [Hovering Disk](https://www.thingiverse.com/thing:1936208){:target="_blank"}
+ - [3D-Mapped Storm Images](https://www.thingiverse.com/thing:1174508){:target="_blank"}
+ - [Clay Tool Design Challenge](https://www.thingiverse.com/thing:1294945){:target="_blank"}
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
