@@ -20,7 +20,6 @@ If you and your group have any questions or get stuck as you work through this i
 <button onclick="toggle('gif1')">Show/Hide Animation</button>
     
 <div id="gif1">            
-
 ![Demonstration of Step 1-5](images/tinkercad-dice-04.gif)</div>
 
 6. <img src="images/tinkercad-keychain-02b.png" style="float:right;width:180px" alt="drop down menu text and numbers"> Now that we have rounded edges, let’s put some numbers on this box and make it a die! On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**.  This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. Drag and drop numbers 1 through 6 onto the workplane.
@@ -31,19 +30,14 @@ If you and your group have any questions or get stuck as you work through this i
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
 
 <div id="gif2"> 
-
 ![Demonstration of Step 7](images/tinkercad-dice-08.gif) 
-
-
-
 </div>
 
 8. <img src="images/tinkercad-dice-09.png" style="float:right;width:180px" alt="hole of number 1 in dice"> Drag the number “**1**” over to the middle of the closest face of the die until it is almost flat with its surface. Grab the pointy arrow above the “**1**” and drag it up until the “**1**” is centered on the face of the die. You can use Align to help get everything centered. Click the “**Hole**” button on the “**Shape**” tool panel. Group the number and die.'
 
-<button onclick="toggle('gif2')">Show/Hide Animation</button>
+<button onclick="toggle('gif3')">Show/Hide Animation</button>
 
-<div id="gif2">
-
+<div id="gif3">
 ![Demonstration of Step 8](images/tinkercad-dice-10.gif) </div>
 
 9. <img src="images/tinkercad-dice-11.png" style="float:right;width:200px" alt="dice layout"> Do the same with each of the other numbers. If you want your die to look like a standard die, use the guide to the right. A good rule of thumb is that the opposite side of a die should add up to 7.  So because we put the “**1**” on the die first, the opposite side should have the “**6**” on it.
