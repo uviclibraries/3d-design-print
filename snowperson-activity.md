@@ -16,7 +16,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select the shape, and a grid should pop up around the shape. Using the **white corner handles**, stretch the sphere so that it is **30mm** for all three dimensions.<br>
 
  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+<div id="gif1">
     <img src="images/tinkercad-snowperson-03.gif">
     </div>
 
@@ -29,7 +29,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Click on the **Group** button on the top menu. This will group the box and sphere together. Then, press **D** to drop the flat bottomed sphere.
 
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+<div id="gif2">
     <img src="images/tinkercad-snowperson-04.gif">
     </div>
 
@@ -40,7 +40,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - **Align** the sphere on the larger sphere, and **Group**.<br> 
 
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
+ <div id="gif3">
     <img src="images/tinkercad-snowperson-05.gif">
     </div>
 
@@ -54,7 +54,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select the object. A **circular, black two-ended arrow** should pop up. Select that to rotate the shape **-90 degrees**.<br>
 
 <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
+ <div id="gif4">
     <img src="images/tinkercad-snowperson-07.gif">
     </div>
 
@@ -69,7 +69,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Raise your hat **52mm** from the workplane, and align it to your snowperson. You can tilt it a little, or leave it flat.<br>
 
 <button onclick="toggle('gif5')">Show/Hide Animation</button>
-    <div id="gif5">
+<div id="gif5">
     <img src="images/tinkercad-snowperson-10.gif">
     </div>
 
@@ -81,7 +81,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Raise the ring **56mm**, and center it on the snowperson.<br>
 
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
-    <div id="gif6">
+<div id="gif6">
     <img src="images/tinkercad-snowperson-11.gif">
     </div>
 

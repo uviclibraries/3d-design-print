@@ -22,14 +22,14 @@ Note: If you’d like to modify other VEX parts, you can directly download a [sm
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the STL file you just downloaded. Click on the **Import** button.
 
  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+<div id="gif1">
     <img src="images/tinkercad-import-04.gif">
     </div>
 
 4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.
 
  <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+ <div id="gif2">
     <img src="images/tinkercad-import-05.gif">
     </div>
 
@@ -39,7 +39,7 @@ Note: If you’d like to modify other VEX parts, you can directly download a [sm
 - You can now stretch and move the triangle to the shape you would like for your modified part. Below is an example of a modified part where the part was stretched and then copied before moving the additional elements of the model into position (see below):<br>
 
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
+<div id="gif3">
     <img src="images/tinkercad-import-07.gif">
     </div>
 
