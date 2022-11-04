@@ -35,24 +35,45 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - **Group** these three items.
 - Make **two** more copies of this shape.<br>
 <img src="images/tinkercad-snowflake-06.png" style="width:400px" alt="Image of ends of rectangle, leaf">
-![Demonstration of Step 4](images/tinkercad-snowflake-07.gif)
+
+<button onclick="toggle('gif3')">Show/Hide Animation</button>
+<div id="gif3">
+    <img src="images/tinkercad-snowflake-07.gif">
+    </div>
+
+
 5. In the **Basic Shapes** menu, **select a polygon** and place it onto the Workplane. 
 - Leave it with 6 sides, as a hexagon
 - **Decrease** the height to **5mm**. 
 - **Align** it to the center of the leaf.<br>
 <img src="images/tinkercad-snowflake-08.png" style="width:400px" alt="Image of shape with polygon added">
-![Demonstration of Step 5](images/tinkercad-snowflake-09.gif)
+
+<button onclick="toggle('gif4')">Show/Hide Animation</button>
+<div id="gif4">
+    <img src="images/tinkercad-snowflake-09.gif">
+    </div>
+
 6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like so.<br>
 <img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
 - With the third leaf, **rotate** it **-60 degrees**. **Align** it onto the hexagon
 - **Group** everything.<br>
-![Demonstration of Step 6](images/tinkercad-snowflake-12.gif)
+
+<button onclick="toggle('gif5')">Show/Hide Animation</button>
+<div id="gif5">
+    <img src="images/tinkercad-snowflake-12.gif">
+    </div>
+
 7. From “Basic Shapes”, select and place a **hollow cylinder** on the Workplane. <img src="images/tinkercad-snowflake-03.png" style="float:right;width:220px" alt="cylinder hole">
 - Shrink it to **3mm** by **3mm** and **6mm** tall. 
 - Place it in the center of one leaf, near the edge (see right). 
 - Make sure it is firmly on your workplane by pressing **D**. Next, select **Align**
 - This is your hole for your string.
-![Demonstration of Step 7](images/tinkercad-snowflake-14.gif)
+
+<button onclick="toggle('gif6')">Show/Hide Animation</button>
+<div id="gif6">
+    <img src="images/tinkercad-snowflake-14.gif">
+    </div>
+
 <img src="images/tinkercad-snowflake-15.png" style="float:right;width:300px" alt="Snowflake example final product">
 8. Congratulations, you have a snowflake you are ready to print! You can make it more complex if you want, just remember that it has to be kind of small.
 
