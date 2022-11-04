@@ -72,8 +72,8 @@ If you and your group have any questions or get stuck as you work through this i
 12. <img src="images/tinkercad-keychain-19.png" style="float:right;width:200px;height:250px;" alt="grey stripped cylinder"> Next we need to make a hole in the middle of the cylinder, so we’ll grab a grey striped cylinder and drop it on the workplane.  Now select the bottom right “handle” and change both the width and depth dimensions from **20.00** to **6**.
 13. <img src="images/tinkercad-keychain-20.png" style="float:right;width:220px;height:200px;" alt="Group icon">Drag and drop the grey cylinder into the middle of the orange cylinder.  Now select both cylinders and the text and then press the **Group** button on the top toolbar. 
 
-<button onclick="toggle('gif6')">Show/Hide Animation</button>
- <div id="gif6">
+<button onclick="toggle('gif7')">Show/Hide Animation</button>
+ <div id="gif7">
     <img src="images/tinkercad-keychain-21.gif">
     </div>
 
