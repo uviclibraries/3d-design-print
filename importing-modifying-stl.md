@@ -46,6 +46,7 @@ Note: If you’d like to modify other VEX parts, you can directly download a [sm
 ![Image of Final product](images/tinkercad-import-08.png)
 
 5. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
+
 Good Job!
 
 **OPTIONAL: If you would like to modify one of hundreds of VEX parts continue with this optional activity:**
