@@ -77,8 +77,8 @@ If you and your group have any questions or get stuck as you work through this i
 
 13. <img src="images/tinkercad-keychain-20.png" style="float:right;width:220px;height:200px;" alt="Group icon">Drag and drop the grey cylinder into the middle of the orange cylinder.  Now select both cylinders and the text and then press the **Group** button on the top toolbar. 
 
-    <button onclick="toggle('gif7')">Show/Hide Animation</button>
-    <div id="gif7">
+<button onclick="toggle('gif7')">Show/Hide Animation</button>
+ <div id="gif7">
     <img src="images/tinkercad-keychain-21.gif">
     </div>
 

@@ -13,7 +13,8 @@ If you and your group have any questions or get stuck as you work through this i
 1. If you haven’t already, please go to the [TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself  If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 2. Create the basic shape of the Cell phone stand:
 <img src="images/tinkercad-phone-02.png" style="float:right;width:220px;height:220px;" alt="radius editing menu">
-    - Click “**Create new design**”.
+    
+- Click “**Create new design**”.
     - On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the red **Box** shape, and then drag and drop it on the build plate. 
     - Select the white handle at the top of the shape and drag it down to the height of “**3.00**”.
     - Select one of the **white handles** at the base of the box, and set the base to “**70.00**” by “**25.00**”.
@@ -26,12 +27,14 @@ If you and your group have any questions or get stuck as you work through this i
 
 3. Measure the width of your phone:
 <img src="images/tinkercad-phone-04.png" style="float:right;width:220px;height:220px;" alt="measurements">
-    - Use a calliper tool so that you can measure the width of your cell phone. NOTE: If a calliper tool is not available, you can use a ruler to measure your phone thickness with the case on, and choose the closest one of the following most common sizes: 9mm, 11mm, 13mm, 15mm
+   
+ - Use a calliper tool so that you can measure the width of your cell phone. NOTE: If a calliper tool is not available, you can use a ruler to measure your phone thickness with the case on, and choose the closest one of the following most common sizes: 9mm, 11mm, 13mm, 15mm
     - Write down the width of your cell phone here, out to two decimal places: ______________
     - Now add 0.5 to the width of your phone and write it here: _________ (E.g. if my phone was 8.50mm then I’d write 9.00mm)
 4. Create the notch for your phone and hole for keychain:
    <img src="images/tinkercad-phone-05.png" style="float:right;width:220px;" alt="phone with grey box inserted">
-   - On the right side of the screen select the grey striped **Box** shape, and then **drag and drop** it on the build plate. 
+  
+  - On the right side of the screen select the grey striped **Box** shape, and then **drag and drop** it on the build plate. 
     - Select the white handle at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**16.00**” and **the width of your cell phone plus 0.5mm**. **NOTE:** Please ask the instructor for help if you are unsure about this because this is very important to the success of your project.
     - Move the grey box so that it is flush with the edge of the red box, and 12mm away from the left side of the box. You can count the square boxes in order to measure the 12mm (as you can see to the right) or you can use the ruler function. Ask your instructor for assistance if you are unsure.
@@ -41,7 +44,7 @@ If you and your group have any questions or get stuck as you work through this i
     <img src="images/tinkercad-phone-06.gif">
     </div>
    
-    - On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate. 
+- On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate. 
        <img src="images/tinkercad-phone-07.png" style="float:right;width:220px;" alt="grey box and cylinder">
     - Select the **white handle** at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**5.00**” and “**5.00**”. 
