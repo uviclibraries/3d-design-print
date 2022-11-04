@@ -67,8 +67,8 @@ If you and your group have any questions or get stuck as you work through this i
     - With the text object selected grab the black cone on top of the object (see image to the right), and drag it upward **2mm**.
     - **Select** both the text box and phone holder and then press the **Group** button on the top menu.
 
-<button onclick="toggle('gif3')">Show/Hide Animation</button>
-   <div id="gif3">
+<button onclick="toggle('gif4')">Show/Hide Animation</button>
+   <div id="gif4">
     <img src="images/tinkercad-phone-12.gif">
     </div>
 
