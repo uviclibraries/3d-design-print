@@ -26,7 +26,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Raise this heart **2mm** from the workplane by dragging the small black “cone” on the top of the heart upwards.
 
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+ <div id="gif2">
     <img src="images/tinkercad-box-04.gif" >
     </div>
 
@@ -36,7 +36,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - There should now be four hearts on the workplane.
 
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
-    <div id="gif3">
+ <div id="gif3">
     <img src="images/tinkercad-box-05.gif" >
     </div>
 
@@ -45,6 +45,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select both hearts and click **Align** at the top-right of the screen.<img src="images/tinkercad-box-07.png" style="float:right;width:150px;height:100px" alt="heart box alignment"> 
 - Click on the two middle black circular handles to bring the hearts into alignment.
 - Click **Group** at the top-right of the screen to combine the objects into one.<img src="images/tinkercad-box-08.png" style="float:right;width:140px" alt="heart box grouping"> 
+
 <button onclick="toggle('gif4')">Show/Hide Animation</button>
     <div id="gif4">
     <img src="images/tinkercad-box-09.gif" >
