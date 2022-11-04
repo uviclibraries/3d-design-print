@@ -70,8 +70,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Raise the sphere 25mm from the workplane, by grabbing the black hat on top of the cone upwards.
   - “**Align**” all shapes on workplane & then “**Group**” all pieces together.
 
-  <button onclick="toggle('gif5')">Show/Hide Animation</button>
-<div id="gif5">
+  <button onclick="toggle('gif6')">Show/Hide Animation</button>
+<div id="gif6">
     <img src="images/tinkercad-game-11.gif">
     </div>
 
