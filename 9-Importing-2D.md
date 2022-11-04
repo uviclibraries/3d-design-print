@@ -39,7 +39,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
     <img src="images/act-9/tinkercad-9b.gif">
     </div>
 
-5. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
+5. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 Good Job!
 
 <script>  
