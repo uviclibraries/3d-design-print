@@ -13,8 +13,11 @@ If you and your group have any questions or get stuck as you work through this i
 
 1. If you haven’t already, please go to [the TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 <img src="images/tinkercad-keychain-02b.png" style="float:right;width:200px" alt="drop down menu with basic shapes, text and numbers."> 
+
 2. Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
+
 3. On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the **Design Starters** option, then the **"A" Letter Icon**. This will display a list of 3D letters that you can scroll down through to find the whole alphabet, plus numbers 1 through 9. <img src="images/tinkercad-keychain-03b.png" style="float:right;width:400px" alt="visual example"> 
+
 4. Drag and drop all the individual letters from a name or word you want to use onto the workplane. 
 
 <button onclick="toggle('gif1')">Show/Hide Animation</button>
@@ -23,8 +26,10 @@ If you and your group have any questions or get stuck as you work through this i
     </div>
 
 5. Select all the letters and then click on the **Align Button**.
+
 6. Then click on the black handle on the bottom left of the text to align the text along the bottom.
 ![Image representation of alignment](images/tinkercad-keychain-05.png)
+
 7. Now move the letter closer together so that they overlap a significant amount so that when your keychain is printed it will stay together when some stress is put on it. See my example below:
 ![Image example](images/tinkercad-keychain-06.png)
 
