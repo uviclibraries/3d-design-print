@@ -6,6 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/tinkercad-snowflake-01.png" style="float:right;width:220px" alt="Snowflake example">
+
 # Snowflake Ornament Activity
 1. Open up [TinkerCad](https://www.tinkercad.com/){:target="_blank"}, make an account or log-in. Open a new design. On the top left, change the name to Snowflake.
 

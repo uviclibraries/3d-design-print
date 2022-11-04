@@ -5,6 +5,7 @@ nav_order: 8
 parent: Workshop Activities
 ---
 <img src="images/tinkercad-snowperson-01.png" style="float:right;width:220px" alt="TinkerCad Logo">
+
 # Snowperson Ornament Activity
 1. If you haven’t already, please go to the [TinkerCad website](http://tinkercad.com){:target="_blank"} and create an account for yourself. If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 
