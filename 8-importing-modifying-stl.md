@@ -73,4 +73,4 @@ Good Job!
     }
 </script>
 
-[NEXT STEP: Importing and Modifying 2D images](9-importing-2D.html){: .btn .btn-blue }
+[NEXT STEP: Importing and Modifying 2D images](9-Importing-2D.html){: .btn .btn-blue }
