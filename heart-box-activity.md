@@ -47,7 +47,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Click **Group** at the top-right of the screen to combine the objects into one.<img src="images/tinkercad-box-08.png" style="float:right;width:140px" alt="heart box grouping"> 
 
 <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
+ <div id="gif4">
     <img src="images/tinkercad-box-09.gif" >
     </div>
 
@@ -75,7 +75,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select the text and the lid, then click **Group**.
 
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif7">
+<div id="gif6">
     <img src="images/tinkercad-box-14.gif" >
     </div>
 
