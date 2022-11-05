@@ -77,4 +77,17 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 8. Lastly, click on the “**Export**” button on the top right of the toolbar, and then select “**.STL**” and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
+
 [NEXT STEP: Dice Activity](4-dice-activity.html){: .btn .btn-blue }
