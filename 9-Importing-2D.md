@@ -25,7 +25,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the SVG file you just downloaded. Set the **scale** to **20%**, then click on the **Import** button.
 
  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
+  <div id="gif1">
     <img src="images/act-9/tinkercad-9a.gif">
     </div>
 
@@ -35,7 +35,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 -   Group the cylinder and duck together. 
 
  <button onclick="toggle('gif2')">Show/Hide Animation</button>
-    <div id="gif2">
+<div id="gif2">
     <img src="images/act-9/tinkercad-9b.gif">
     </div>
 
