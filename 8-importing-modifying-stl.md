@@ -15,6 +15,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 1. If you haven’t already, please go to the [TinkerCad website](http://tinkercad.com){:target="_blank"} and create an account for yourself.  If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 2. Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
 <img src="images/tinkercad-import-02.png" style="float:right;width:250px" alt="Importing menu">
+
 3. Download and import an STL model file into TinkerCad in preparation for modifying it. For example, let’s customize a part for a VEX Robotics kit:
 - Download the [276-6010-007 Mount.STL](https://www.idesignsol.com/files/276-6010-007%20Mount.STL){:target="_blank"} file to your computer. 
 Note: If you’d like to modify other VEX parts, you can directly download a [small number of parts from iDesign Solutions](https://www.idesignsol.com/index.php?route=blog/article&article_id=23){:target="_blank"} (see step 6 for many, many more parts you can modify with a bit more work).
