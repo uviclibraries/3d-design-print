@@ -10,6 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Cellphone Keychain Activity 
 
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  
+
 1. If you haven’t already, please go to the [TinkerCad website and create an account](http://tinkercad.com){:target="_blank"} for yourself  If you find yourself in a tutorial, click on the Tinkercad logo in the top left of the screen to exit to the home page.
 
     <img src="images/tinkercad-phone-02.png" style="float:right;width:220px;height:220px;" alt="radius editing menu">
@@ -22,9 +23,9 @@ If you and your group have any questions or get stuck as you work through this i
     - Make sure that your box is selected and then in the **Shape** menu to the right of the screen change the **Radius** to “**2**” (see diagram to the right for details).
 
  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-    <div id="gif1">
-    <img src="images/tinkercad-phone-03.gif">
-    </div>
+ <div id="gif1">
+ <img src="images/tinkercad-phone-03.gif">
+ </div>
 
   <img src="images/tinkercad-phone-04.png" style="float:right;width:220px;height:220px;" alt="measurements">
 
@@ -54,10 +55,10 @@ If you and your group have any questions or get stuck as you work through this i
     - Click on one of the **white handles** at the base of the box, and type in “**5.00**” and “**5.00**”. 
     - Move this **grey cylinder** to the bottom right of the red box (as you can see to the right).
 
-      <img src="images/tinkercad-phone-08.png" style="float:right;width:220px;" alt="phone with objects grouped together">
+    <img src="images/tinkercad-phone-08.png" style="float:right;width:220px;" alt="phone with objects grouped together">
 
     - **Select all of the objects** on your build plate and then click on the **Group** button on the top menu.
-    - Your cell phone holder should look like this!
+    - Your cell phone holder should look like this:
 
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
@@ -65,23 +66,25 @@ If you and your group have any questions or get stuck as you work through this i
     </div>
 
 5. **OPTIONAL**: You can customize your cell phone holder by embossing your name or something else on the top of it:
-    - On the right side of the screen select the red **Text** shape, and then **drag and drop** it on the build plate. 
-    - In the **Shape** menu on the right, type something into the **Text** field. 
-    - If you want you can change the **Font** in drop down box below the Text field.
-    - While still, in the **Shape** menu, click on the grey striped **Hole** icon.
-    <img src="images/tinkercad-phone-10.png" style="float:right;width:220px;" alt="text inserted">
-    - Select one of the **white handles** at the corner of the text box, and drag it until the text is small enough to fit on the top of the cell phone holder. 
-    - **Drag** the text on to the top of the phone holder.
+ - On the right side of the screen select the red **Text** shape, and then **drag and drop** it on the build plate. 
+ - In the **Shape** menu on the right, type something into the **Text** field. 
+ - If you want you can change the **Font** in drop down box below the Text field.
+ - While still, in the **Shape** menu, click on the grey striped **Hole** icon.
 
-    <img src="images/tinkercad-phone-11.png" style="float:right;width:220px;" alt="text grouped together on case">
+ <img src="images/tinkercad-phone-10.png" style="float:right;width:220px;" alt="text inserted">
 
-    - With the text object selected grab the black cone on top of the object (see image to the right), and drag it upward **2mm**.
-    - **Select** both the text box and phone holder and then press the **Group** button on the top menu.
+ - Select one of the **white handles** at the corner of the text box, and drag it until the text is small enough to fit on the top of the cell phone holder. 
+ - **Drag** the text on to the top of the phone holder.
 
-    <button onclick="toggle('gif4')">Show/Hide Animation</button>
-    <div id="gif4">
-    <img src="images/tinkercad-phone-12.gif">
-    </div>
+ <img src="images/tinkercad-phone-11.png" style="float:right;width:220px;" alt="text grouped together on case">
+
+ - With the text object selected grab the black cone on top of the object (see image to the right), and drag it upward **2mm**.
+ - **Select** both the text box and phone holder and then press the **Group** button on the top menu.
+
+ <button onclick="toggle('gif4')">Show/Hide Animation</button>
+ <div id="gif4">
+ <img src="images/tinkercad-phone-12.gif">
+ </div>
 
 6. Lastly, click on the “**Export**” button on the top right of the toolbar, and then select “.STL” and save the file to your hard drive so you can 3D print your wand!
 
