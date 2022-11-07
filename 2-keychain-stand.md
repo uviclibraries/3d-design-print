@@ -48,14 +48,11 @@ If you and your group have any questions or get stuck as you work through this i
     </div>
     
     <img src="images/tinkercad-phone-07.png" style="float:right;width:220px;" alt="grey box and cylinder">
-
  - On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate.   
     - Select the **white handle** at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**5.00**” and “**5.00**”. 
     - Move this **grey cylinder** to the bottom right of the red box (as you can see to the right).
-
     <img src="images/tinkercad-phone-08.png" style="float:right;width:220px;" alt="phone with objects grouped together">
-
     - **Select all of the objects** on your build plate and then click on the **Group** button on the top menu.
     - Your cell phone holder should look like this:
 
