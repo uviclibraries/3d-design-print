@@ -15,17 +15,19 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Grab a cone from the basic shapes panel on the right and drag it on to the workplane. 
   - Stretch the cone so that it is 30mm for all three dimensions by dragging the white handles on the base and top of the cone (or by clicking on the handles and entering “**30**” in the fields).
 
-  <button onclick="toggle('gif1')">Show/Hide Animation</button>
-  <div id="gif1">
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images/tinkercad-game-02.gif">
     </div>
 
-3. <img src="images/tinkercad-game-03.png" style="float:right;width:200px;height:220px;" alt="cone cylinder"> Drag and drop a cylinder “**hole**” from the basic shapes panel on the right.
+  <img src="images/tinkercad-game-03.png" style="float:right;width:200px;height:220px;" alt="cone cylinder">
+
+3.  Drag and drop a cylinder “**hole**” from the basic shapes panel on the right.
   - Change the size of the cylinder to 30mm for all three dimensions, by clicking on the cylinder & selecting the white corner handles. 
   - Raise this cylinder 3mm from the workplane by dragging the small black “cone” on the top of the cylinder upwards.
 
-  <button onclick="toggle('gif2')">Show/Hide Animation</button>
-  <div id="gif2">
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
     <img src="images/tinkercad-game-04.gif">
     </div>
 
@@ -34,8 +36,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Select the align tool from the top menu and click on the two black centre handles on Workplane.
   - Click on the “**Group**” button on the top menu or **Ctrl + G**. This will group the cone and cylinder together to make an angled disc.
 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
-  <div id="gif3">
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
     <img src="images/tinkercad-game-05.gif">
     </div>
 
@@ -48,8 +50,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Stretch the height to 6mm by selecting the white handle on the top of the 25mm disk. 
   - “**Align**” both disks and group.<br>
 
-  <button onclick="toggle('gif4')">Show/Hide Animation</button>
-  <div id="gif4">
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
     <img src="images/tinkercad-game-07.gif">
     </div>
 
@@ -58,8 +60,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Stretch to 34mm tall
   - Align all objects and “**group**”. 
 
-  <button onclick="toggle('gif5')">Show/Hide Animation</button>
-  <div id="gif5">
+    <button onclick="toggle('gif5')">Show/Hide Animation</button>
+    <div id="gif5">
     <img src="images/tinkercad-game-09.gif">
     </div>
 
@@ -71,8 +73,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Raise the sphere 25mm from the workplane, by grabbing the black hat on top of the cone upwards.
   - “**Align**” all shapes on workplane & then “**Group**” all pieces together.
 
-  <button onclick="toggle('gif6')">Show/Hide Animation</button>
-  <div id="gif6">
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
     <img src="images/tinkercad-game-11.gif">
     </div>
 

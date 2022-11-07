@@ -24,9 +24,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Duplicate the heart by clicking **Duplicate** at the top-left of the screen or by clicking **Ctrl + D**.
 - Resize the heart so that its length and width are both **70mm** by dragging the white square handles on the base and top of the heart (or by clicking on one of the white square handles and entering “**70**” in the fields). 
 - Raise this heart **2mm** from the workplane by dragging the small black “cone” on the top of the heart upwards.
-
 <button onclick="toggle('gif2')">Show/Hide Animation</button>
- <div id="gif2">
+    <div id="gif2">
     <img src="images/tinkercad-box-04.gif" >
     </div>
 
@@ -34,9 +33,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select both hearts by holding down the Shift key and clicking them. 
 - Click on **Duplicate** and drag the new hearts to a clear area on the workplane.
 - There should now be four hearts on the workplane.
-
 <button onclick="toggle('gif3')">Show/Hide Animation</button>
- <div id="gif3">
+    <div id="gif3">
     <img src="images/tinkercad-box-05.gif" >
     </div>
 
@@ -45,9 +43,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select both hearts and click **Align** at the top-right of the screen.<img src="images/tinkercad-box-07.png" style="float:right;width:150px;height:100px" alt="heart box alignment"> 
 - Click on the two middle black circular handles to bring the hearts into alignment.
 - Click **Group** at the top-right of the screen to combine the objects into one.<img src="images/tinkercad-box-08.png" style="float:right;width:140px" alt="heart box grouping"> 
-
 <button onclick="toggle('gif4')">Show/Hide Animation</button>
- <div id="gif4">
+    <div id="gif4">
     <img src="images/tinkercad-box-09.gif" >
     </div>
 
@@ -58,9 +55,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select both hearts and click **Align** at the top-right of the screen.
 - Click on the two middle black circular handles to bring the hearts into alignment.
 - Click **Group** to combine the objects into one.
-
 <button onclick="toggle('gif5')">Show/Hide Animation</button>
- <div id="gif5">
+    <div id="gif5">
     <img src="images/tinkercad-box-11.gif" >
     </div>
 
@@ -73,9 +69,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Select the text and the heart, then click Align  at the top-right of the screen.
 - Click on the two middle black circular handles to bring the hearts into alignment.
 - Select the text and the lid, then click **Group**.
-
 <button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif6">
+    <div id="gif6">
     <img src="images/tinkercad-box-14.gif" >
     </div>
 

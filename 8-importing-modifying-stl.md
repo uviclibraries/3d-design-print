@@ -20,14 +20,16 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 3. Download and import an STL model file into TinkerCad in preparation for modifying it. For example, let’s customize a part for a VEX Robotics kit:
 - Download the [276-6010-007 Mount.STL](https://www.idesignsol.com/files/276-6010-007%20Mount.STL){:target="_blank"} file to your computer. 
 Note: If you’d like to modify other VEX parts, you can directly download a [small number of parts from iDesign Solutions](https://www.idesignsol.com/index.php?route=blog/article&article_id=23){:target="_blank"} (see step 6 for many, many more parts you can modify with a bit more work).
-<img src="images/tinkercad-import-03.png" style="float:right;width:220px" alt="Example of object">
+    <img src="images/tinkercad-import-03.png" style="float:right;width:220px" alt="Example of object">
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the STL file you just downloaded. Click on the **Import** button.
+
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/tinkercad-import-04.gif">
     </div>
 
 4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.
+
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/tinkercad-import-05.gif">

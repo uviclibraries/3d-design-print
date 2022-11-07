@@ -15,7 +15,7 @@ If you and your group have any questions or get stuck as you work through this i
 2. Create the basic shape of the Cell phone stand:
     <img src="images/tinkercad-phone-02.png" style="float:right;width:220px;height:220px;" alt="radius editing menu">
     
-- Click “**Create new design**”.
+ - Click “**Create new design**”.
     - On the right side of the TinkerCad open a drop-down menu by clicking on **Basic Shapes**, and then select the red **Box** shape, and then drag and drop it on the build plate. 
     - Select the white handle at the top of the shape and drag it down to the height of “**3.00**”.
     - Select one of the **white handles** at the base of the box, and set the base to “**70.00**” by “**25.00**”.
@@ -45,7 +45,7 @@ If you and your group have any questions or get stuck as you work through this i
     <img src="images/tinkercad-phone-06.gif">
     </div>
    
-- On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate. 
+ - On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate. 
        <img src="images/tinkercad-phone-07.png" style="float:right;width:220px;" alt="grey box and cylinder">
     - Select the **white handle** at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**5.00**” and “**5.00**”. 

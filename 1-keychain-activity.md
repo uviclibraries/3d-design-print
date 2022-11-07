@@ -93,4 +93,4 @@ If you and your group have any questions or get stuck as you work through this i
     }
 </script>
 
-[NEXT STEP: Cellphone Keychain Stand](keychain-stand.html){: .btn .btn-blue }
+[NEXT STEP: Cellphone Keychain Stand](2-keychain-stand.html){: .btn .btn-blue }
