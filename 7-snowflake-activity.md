@@ -53,17 +53,17 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images/tinkercad-snowflake-09.gif">
     </div>
 
-6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like so.<br>
+6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like the image below: 
+
     <img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
 - With the third leaf, **rotate** it **-60 degrees**. **Align** it onto the hexagon
-- **Group** everything.
-
+- **Group** everything.<br>
     <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
     <img src="images/tinkercad-snowflake-12.gif">
     </div>
 
-7. From “Basic Shapes”, select and place a **hollow cylinder** on the Workplane. <img src="images/tinkercad-snowflake-03.png" style="float:right;width:220px" alt="cylinder hole">
+7. From “Basic Shapes”, select and place a **hollow cylinder** on the Workplane. <img src="images/tinkercad-snowflake-13.png" style="float:right;width:220px" alt="cylinder hole">
 - Shrink it to **3mm** by **3mm** and **6mm** tall. 
 - Place it in the center of one leaf, near the edge (see right). 
 - Make sure it is firmly on your workplane by pressing **D**. Next, select **Align**
