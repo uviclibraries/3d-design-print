@@ -28,8 +28,7 @@ Note: If you’d like to modify other VEX parts, you can directly download a [sm
     <img src="images/tinkercad-import-04.gif">
     </div>
 
-4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.
-
+4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.<br>
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/tinkercad-import-05.gif">
@@ -39,17 +38,15 @@ Note: If you’d like to modify other VEX parts, you can directly download a [sm
  - **Rotate** the roof 90 degrees so that it is standing on end by dragging the curved arrow at the top of the roof (see image on right).<img src="images/tinkercad-import-06.png" style="float:right;width:220px" alt="white handles rotation">
  - Click on the **white handle** at the top of the Roof and then change the height from 20.00mm to 6.35mm (see image on right).
  - You can now stretch and move the triangle to the shape you would like for your modified part. Below is an example of a modified part where the part was stretched and then copied before moving the additional elements of the model into position (see below):<br>
-
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/tinkercad-import-07.gif">
     </div>
 
     <img src="images/tinkercad-import-08.png" style="float:right;width:280px" alt="final product">
-
 5. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 
-Good Job!
+    Good Job!
 
 **OPTIONAL: If you would like to modify one of hundreds of VEX parts continue with this optional activity:**
 
