@@ -20,7 +20,8 @@ If you and your group have any questions or get stuck as you work through this i
     - Select the white handle at the top of the shape and drag it down to the height of “**3.00**”.
     - Select one of the **white handles** at the base of the box, and set the base to “**70.00**” by “**25.00**”.
     - Make sure that your box is selected and then in the **Shape** menu to the right of the screen change the **Radius** to “**2**” (see diagram to the right for details).
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
+
+ <button onclick="toggle('gif1')">Show/Hide Animation</button>
     <div id="gif1">
     <img src="images/tinkercad-phone-03.gif">
     </div>
@@ -34,7 +35,7 @@ If you and your group have any questions or get stuck as you work through this i
 
     <img src="images/tinkercad-phone-05.png" style="float:right;width:220px;" alt="phone with grey box inserted">
 
-4. Create the notch for your phone and hole for keychain:
+4. Create the notch and hole for your keychain:
   - On the right side of the screen select the grey striped **Box** shape, and then **drag and drop** it on the build plate. 
     - Select the white handle at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**16.00**” and **the width of your cell phone plus 0.5mm**. **NOTE:** _Please ask the instructor for help if you are unsure about this because this is very important to the success of your project._
@@ -54,11 +55,11 @@ If you and your group have any questions or get stuck as you work through this i
     - Move this **grey cylinder** to the bottom right of the red box (as you can see to the right).
 
       <img src="images/tinkercad-phone-08.png" style="float:right;width:220px;" alt="phone with objects grouped together">
-      
+
     - **Select all of the objects** on your build plate and then click on the **Group** button on the top menu.
     - Your cell phone holder should look like this!
 
-  <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
     <div id="gif3">
     <img src="images/tinkercad-phone-09.gif">
     </div>
