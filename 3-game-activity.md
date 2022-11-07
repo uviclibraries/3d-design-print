@@ -10,12 +10,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Game Piece Activity
 
 1. Open up [TinkerCad](https://www.tinkercad.com/){:target="_blank"}, create an account or log-in. Open a new design. 
+
 2. Make the base of the piece:
   - Grab a cone from the basic shapes panel on the right and drag it on to the workplane. 
   - Stretch the cone so that it is 30mm for all three dimensions by dragging the white handles on the base and top of the cone (or by clicking on the handles and entering “**30**” in the fields).
 
   <button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
+  <div id="gif1">
     <img src="images/tinkercad-game-02.gif">
     </div>
 
@@ -24,7 +25,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Raise this cylinder 3mm from the workplane by dragging the small black “cone” on the top of the cylinder upwards.
 
   <button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
+  <div id="gif2">
     <img src="images/tinkercad-game-04.gif">
     </div>
 
@@ -34,11 +35,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Click on the “**Group**” button on the top menu or **Ctrl + G**. This will group the cone and cylinder together to make an angled disc.
 
   <button onclick="toggle('gif3')">Show/Hide Animation</button>
-<div id="gif3">
+  <div id="gif3">
     <img src="images/tinkercad-game-05.gif">
     </div>
 
-<img src="images/tinkercad-game-06.png" style="float:right;width:250px" alt="cone base">
+  <img src="images/tinkercad-game-06.png" style="float:right;width:250px" alt="cone base">
 
 5. Duplicate the disc:
   - Select the disk and then duplicate by pressing: **Ctrl + D**
@@ -48,7 +49,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - “**Align**” both disks and group.<br>
 
   <button onclick="toggle('gif4')">Show/Hide Animation</button>
-<div id="gif4">
+  <div id="gif4">
     <img src="images/tinkercad-game-07.gif">
     </div>
 
@@ -58,11 +59,11 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - Align all objects and “**group**”. 
 
   <button onclick="toggle('gif5')">Show/Hide Animation</button>
-<div id="gif5">
+  <div id="gif5">
     <img src="images/tinkercad-game-09.gif">
     </div>
 
-<img src="images/tinkercad-game-10.png" style="float:right;width:180px" alt="cone with sphere on top">
+  <img src="images/tinkercad-game-10.png" style="float:right;width:180px" alt="cone with sphere on top">
 
 7. Add something fun to the top of your game piece:
   - Drag a sphere (or another interesting shape) to the workplane:
@@ -71,7 +72,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
   - “**Align**” all shapes on workplane & then “**Group**” all pieces together.
 
   <button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif6">
+  <div id="gif6">
     <img src="images/tinkercad-game-11.gif">
     </div>
 

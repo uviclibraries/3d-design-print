@@ -16,7 +16,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 
 2. Click **Create new design**. If the TinkerCad tutorial pane is up on the right-hand side, you will need to get out of it before proceeding. Click on the TinkerCad logo at the top to bring you back to your main page. From there you should see the “Create new design” button. 
 
-<img src="images/tinkercad-import-02.png" style="float:right;width:250px" alt="Importing menu">
+    <img src="images/tinkercad-import-02.png" style="float:right;width:250px" alt="Importing menu">
 
 3. Download and import an STL model file into TinkerCad. 
 - Click [this link to find a downloadable duck.](https://game-icons.net/1x1/delapouite/plastic-duck.html){:target="_blank"} Click the **SVG** button on the right side of the webpage to download the svg file. 
@@ -24,8 +24,8 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
     -   You can also use a program like Inkscape to [convert an image to svg](https://docs.google.com/document/d/1HN7EW7bgU1e_EtFqS2a65FwQNgY3sPT73x4TOv8An0E/edit)
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the SVG file you just downloaded. Set the **scale** to **20%**, then click on the **Import** button.
 
- <button onclick="toggle('gif1')">Show/Hide Animation</button>
-  <div id="gif1">
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images/act-9/tinkercad-9a.gif">
     </div>
 
@@ -34,8 +34,8 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 -   Use the arrows to fit the cylinder between the beak and the duck body. 
 -   Group the cylinder and duck together. 
 
- <button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
     <img src="images/act-9/tinkercad-9b.gif">
     </div>
 

@@ -12,10 +12,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 2. From the **Basic Shapes**, grab a box and place it on the workplane. 
 - **Select** the **white handles** and change it to a rectangle that is **5mm** tall by **5mm** wide and **55mm** long.<br>
-<img src="images/tinkercad-snowflake-02.png" style="width:400px" alt="Image of rectangle measurements">
+    <img src="images/tinkercad-snowflake-02.png" style="width:400px" alt="Image of rectangle measurements">
 
-<button onclick="toggle('gif1')">Show/Hide Animation</button>
-<div id="gif1">
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
     <img src="images/tinkercad-snowflake-03.gif">
     </div>
 
@@ -26,8 +26,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Click the **Group** button. 
 - **Duplicate** the corner.<br>
 
-<button onclick="toggle('gif2')">Show/Hide Animation</button>
-<div id="gif2">
+    <button onclick="toggle('gif2')">Show/Hide Animation</button>
+    <div id="gif2">
     <img src="images/tinkercad-snowflake-05.gif">
     </div>
 
@@ -35,32 +35,31 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - **Rotate** the other corner **180** degrees and align to the other end of the rectangle. 
 - **Group** these three items.
 - Make **two** more copies of this shape.<br>
-<img src="images/tinkercad-snowflake-06.png" style="width:400px" alt="Image of ends of rectangle, leaf">
+    <img src="images/tinkercad-snowflake-06.png" style="width:400px" alt="Image of ends of rectangle, leaf">
 
-<button onclick="toggle('gif3')">Show/Hide Animation</button>
-<div id="gif3">
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
     <img src="images/tinkercad-snowflake-07.gif">
     </div>
-
 
 5. In the **Basic Shapes** menu, **select a polygon** and place it onto the Workplane. 
 - Leave it with 6 sides, as a hexagon
 - **Decrease** the height to **5mm**. 
 - **Align** it to the center of the leaf.<br>
-<img src="images/tinkercad-snowflake-08.png" style="width:400px" alt="Image of shape with polygon added">
+    <img src="images/tinkercad-snowflake-08.png" style="width:400px" alt="Image of shape with polygon added">
 
-<button onclick="toggle('gif4')">Show/Hide Animation</button>
-<div id="gif4">
+    <button onclick="toggle('gif4')">Show/Hide Animation</button>
+    <div id="gif4">
     <img src="images/tinkercad-snowflake-09.gif">
     </div>
 
 6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like so.<br>
-<img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
+    <img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
+    
 - With the third leaf, **rotate** it **-60 degrees**. **Align** it onto the hexagon
 - **Group** everything.<br>
-
-<button onclick="toggle('gif5')">Show/Hide Animation</button>
-<div id="gif5">
+    <button onclick="toggle('gif5')">Show/Hide Animation</button>
+    <div id="gif5">
     <img src="images/tinkercad-snowflake-12.gif">
     </div>
 
@@ -70,12 +69,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 - Make sure it is firmly on your workplane by pressing **D**. Next, select **Align**
 - This is your hole for your string.
 
-<button onclick="toggle('gif6')">Show/Hide Animation</button>
-<div id="gif6">
+    <button onclick="toggle('gif6')">Show/Hide Animation</button>
+    <div id="gif6">
     <img src="images/tinkercad-snowflake-14.gif">
     </div>
 
-<img src="images/tinkercad-snowflake-15.png" style="float:right;width:300px" alt="Snowflake example final product">
+    <img src="images/tinkercad-snowflake-15.png" style="float:right;width:300px" alt="Snowflake example final product">
+
 8. Congratulations, you have a snowflake you are ready to print! You can make it more complex if you want, just remember that it has to be kind of small.
 
 9. Lastly, click on the “**Export**” button on the top right of the toolbar, and then select “**.STL**” and save the file to your hard drive so you can 3D print your snowflake!
