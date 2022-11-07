@@ -40,15 +40,14 @@ If you and your group have any questions or get stuck as you work through this i
  - On the right side of the screen select the grey striped **Box** shape, and then **drag and drop** it on the build plate. 
     - Select the white handle at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**16.00**” and **the width of your cell phone plus 0.5mm**. _NOTE:  Please ask the instructor for help if you are unsure about this because this is very important to the success of your project._
-    - Move the grey box so that it is flush with the edge of the red box, and 12mm away from the left side of the box. You can count the square boxes in order to measure the 12mm (as you can see to the right) or you can use the ruler function. Ask your instructor for assistance if you are unsure.
-
+    - Move the grey box so that it is flush with the edge of the red box, and 12mm away from the left side of the box. You can count the square boxes in order to measure the 12mm (as you can see to the right) or you can use the ruler function. Ask your instructor for assistance if you are unsure.<br>
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/tinkercad-phone-06.gif">
     </div>
 
     <img src="images/tinkercad-phone-07.png" style="float:right;width:220px;" alt="grey box and cylinder">
-    
+
  - On the right side of the screen select the grey striped Cylinder shape, and then **drag and drop** it on the build plate.   
     - Select the **white handle** at the top of the shape and drag it down to the height of “**10.00**”.
     - Click on one of the **white handles** at the base of the box, and type in “**5.00**” and “**5.00**”. 

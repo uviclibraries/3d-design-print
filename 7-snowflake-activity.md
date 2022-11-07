@@ -56,9 +56,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 6. Using one of your other leaves, **rotate** it **60 degrees**. **Align** it onto the hexagon like the image below: 
 
     <img src="images/tinkercad-snowflake-10.png" style="width:220px" alt="Image of rotation and snowflake"><img src="images/tinkercad-snowflake-11.png" style="width:220px" alt="Image of snowflake">
-    
-- With the third leaf, **rotate** it **-60 degrees**. **Align** it onto the hexagon
-- **Group** everything.<br>
+
+ - With the third leaf, **rotate** it **-60 degrees**. **Align** it onto the hexagon
+ - **Group** everything.<br>
     <button onclick="toggle('gif5')">Show/Hide Animation</button>
     <div id="gif5">
     <img src="images/tinkercad-snowflake-12.gif">
