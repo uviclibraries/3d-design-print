@@ -20,7 +20,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images/tinkercad-game-02.gif">
     </div>
 
-  <img src="images/tinkercad-game-03.png" style="float:right;width:200px;height:220px;" alt="cone cylinder">
+   <img src="images/tinkercad-game-03.png" style="float:right;width:200px;height:220px;" alt="cone cylinder">
 
 3.  Drag and drop a cylinder “**hole**” from the basic shapes panel on the right.
   - Change the size of the cylinder to 30mm for all three dimensions, by clicking on the cylinder & selecting the white corner handles. 
@@ -41,7 +41,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images/tinkercad-game-05.gif">
     </div>
 
-  <img src="images/tinkercad-game-06.png" style="float:right;width:250px" alt="cone base">
+   <img src="images/tinkercad-game-06.png" style="float:right;width:250px" alt="cone base">
 
 5. Duplicate the disc:
   - Select the disk and then duplicate by pressing: **Ctrl + D**
@@ -65,7 +65,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     <img src="images/tinkercad-game-09.gif">
     </div>
 
-  <img src="images/tinkercad-game-10.png" style="float:right;width:180px" alt="cone with sphere on top">
+   <img src="images/tinkercad-game-10.png" style="float:right;width:180px" alt="cone with sphere on top">
 
 7. Add something fun to the top of your game piece:
   - Drag a sphere (or another interesting shape) to the workplane:
