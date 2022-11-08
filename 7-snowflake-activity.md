@@ -66,10 +66,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
     </div>
 
 7. From “Basic Shapes”, select and place a **hollow cylinder** on the Workplane. <img src="images/tinkercad-snowflake-13.png" style="float:right;width:220px" alt="cylinder hole">
-- Shrink it to **3mm** by **3mm** and **6mm** tall. 
-- Place it in the center of one leaf, near the edge (see right). 
-- Make sure it is firmly on your workplane by pressing **D**. Next, select **Align**
-- This is your hole for your string.
+ - Shrink it to **3mm** by **3mm** and **6mm** tall. 
+ - Place it in the center of one leaf, near the edge (see right). 
+ - Make sure it is firmly on your workplane by pressing **D**. Next, select **Align**
+ - This is your hole for your string.
 
     <button onclick="toggle('gif6')">Show/Hide Animation</button>
     <div id="gif6">
