@@ -57,12 +57,12 @@ If you and your group have any questions or get stuck as you work through this i
     - **Select all of the objects** on your build plate and then click on the **Group** button on the top menu.
     - Your cell phone holder should look like this:
 
-        <button onclick="toggle('gif3')">Show/Hide Animation</button>
-        <div id="gif3">
-        <img src="images/tinkercad-phone-09.gif">
-        </div>
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/tinkercad-phone-09.gif">
+    </div>
 
-5. **OPTIONAL**: You can customize your cell phone holder by embossing your name or something else on the top of it:
+**OPTIONAL**: You can customize your cell phone holder by embossing your name or something else on the top of it:
  - On the right side of the screen select the red **Text** shape, and then **drag and drop** it on the build plate. 
  - In the **Shape** menu on the right, type something into the **Text** field. 
  - If you want you can change the **Font** in drop down box below the Text field.
@@ -74,7 +74,7 @@ If you and your group have any questions or get stuck as you work through this i
  - **Drag** the text on to the top of the phone holder.
 
     <img src="images/tinkercad-phone-11.png" style="float:right;width:220px;" alt="text grouped together on case">
-    
+
  - With the text object selected grab the black cone on top of the object (see image to the right), and drag it upward **2mm**.
  - **Select** both the text box and phone holder and then press the **Group** button on the top menu.
 
@@ -83,7 +83,7 @@ If you and your group have any questions or get stuck as you work through this i
     <img src="images/tinkercad-phone-12.gif">
     </div>
 
-6. Lastly, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so you can 3D print your cellphone stand!
+- Lastly, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so you can 3D print your cellphone stand!
 
 <script>  
 
