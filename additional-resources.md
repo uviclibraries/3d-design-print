@@ -6,7 +6,11 @@ nav_order: 14
 # Additional Resources & Acknowledgements
 
 ## 3D Print and Design with TinkerCad Resources
-Coming Soon!
+- [Thingiverse](https://www.thingiverse.com/)
+- [Printables](https://www.printables.com/model)
+- [GeoGebra: Make 3D graphs with downloadable .stl](https://www.geogebra.org/3d?lang=en)
+- [Instructables: 3D Print an Earthquake](https://www.instructables.com/3D-Print-an-Earthquake/)
+- [Pinterest: 3D Design Ideas](https://www.pinterest.ca/search/pins/?q=3D%20printing&rs=typed)
 
 ## Acknowledgements
 
