@@ -21,7 +21,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 3. Download and import an STL model file into TinkerCad in preparation for modifying it.
 - Download the (first file only) [frog.stl](https://www.thingiverse.com/thing:4838220/files){:target="_blank"} file to your computer. 
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the STL file you just downloaded. Click on the **Import** button.(see image)
-<img src="images/tinkercad-import-frog.png" style="float:right;width:220px" alt="import button">
+<img src="images/import-frog.png" style="float:right;width:220px" alt="import button">
 
 4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.<br>
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
