@@ -10,10 +10,6 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Importing and Modifying STL in TinkerCad
 
-<img src="images/tinkercad-import-01.png" style="float:right;width:220px" alt="TinkerCad logo">
-
-# Importing and Modifying STL in TinkerCad
-
 If you and your group have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!<br>
 NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party website.
 
