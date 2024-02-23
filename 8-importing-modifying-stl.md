@@ -37,8 +37,9 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 - Next move the torus to the back of the frog (see image).
   <img src="images/frog-loop.png" style="width:220px" alt=frog with loop">
 
-5. Group all pieces of your model together by dragging across to select all (see image on right).  <img src="images/group.png" style="float:right;width:220px" alt=group">
-6. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
+5. Group all pieces of your model together by dragging across to select all (see image on right).
+<img src="images/group.png" style="float:right;width:220px" alt=group">
+7. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 
     Good Job!
 
