@@ -22,11 +22,9 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 - Download the (first file only) [frog.stl](https://www.thingiverse.com/thing:4838220/files){:target="_blank"} file to your computer. 
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the STL file you just downloaded. Click on the **Import** button.(see image)
 <img src="images/import-frog.png" style="width:400px" alt="import button">
-
+<img src="images/torus.png" style="float:right;width:100px" alt="torus button">
 4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.<br>
  - Click on the **Torus** Tool and then click on the Workplane where you would like to put it.
-<img src="images/torus.png" style="float:right;width:100px" alt="torus button">
-
  - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).
  <img src="images/45-torus.png" style="width:300px" alt="white handles rotation">
  - Click on the **Black triangle** above the torus and enter 14mm. (see image on right).
