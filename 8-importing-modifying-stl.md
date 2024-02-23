@@ -27,7 +27,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
  - Click on the **Torus** Tool and then click on the Workplane where you would like to put it.
 <img src="images/torus.png" style="float:right;width:300px" alt="torus button">
 
- - **Rotate** the roof 90 degrees so that it is standing on end by dragging the curved arrow at the top of the roof (see image on right).<img src="images/tinkercad-import-06.png" style="float:right;width:220px" alt="white handles rotation">
+ - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).<img src="images/45-torus.png" style="float:right;width:220px" alt="white handles rotation">
  - Click on the **white handle** at the top of the Roof and then change the height from 20.00mm to 6.35mm (see image on right).
  - You can now stretch and move the triangle to the shape you would like for your modified part. Below is an example of a modified part where the part was stretched and then copied before moving the additional elements of the model into position (see below):<br>
     <button onclick="toggle('gif3')">Show/Hide Animation</button>
