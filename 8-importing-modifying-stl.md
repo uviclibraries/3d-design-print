@@ -27,7 +27,8 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
  - Click on the **Torus** Tool and then click on the Workplane where you would like to put it.
 <img src="images/torus.png" style="float:right;width:200px" alt="torus button">
 
- - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).<img src="images/45-torus.png" style="float:right;width:220px" alt="white handles rotation">
+ - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).
+ <img src="images/45-torus.png" style="width:400px" alt="white handles rotation">
  - Click on the **Black triangle** above the torus and enter 14mm. (see image on right).<img src="images/14-triangle.png" style="float:right;width:220px" alt=black triangle raise">
  -  Click on the **white handle** at the top of the Torus and then change the height from 15.61mm to 7.5mm.
  -  Click on any of the four white squares around the torus and change the dimensions to length: 7.5mm and width 4.5mm. (see image with dimensions) img src="images/measurements.png" style="float:right;width:220px" alt=dimensions"
