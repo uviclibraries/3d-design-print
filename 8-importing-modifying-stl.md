@@ -30,27 +30,14 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
  - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).<img src="images/45-torus.png" style="float:right;width:220px" alt="white handles rotation">
  - Click on the **Black triangle** above the torus and enter 14mm. (see image on right).<img src="images/14-triangle.png" style="float:right;width:220px" alt=black triangle raise">
  -  Click on the **white handle** at the top of the Torus and then change the height from 15.61mm to 7.5mm.
- -  Click on any of the four white squares around the torus and change the dimensions to length: 7.5mm and width 4.5mm. (see image with dimensions)
- img src="images/measurements.png" style="float:right;width:220px" alt=dimensions"
+ -  Click on any of the four white squares around the torus and change the dimensions to length: 7.5mm and width 4.5mm. (see image with dimensions) img src="images/measurements.png" style="float:right;width:220px" alt=dimensions"
 - Next move the torus to the back of the frog (see image).
 -  img src="images/frog-loop.png" style="width:220px" alt=frog with loop"
-- 
-5. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
+
+5. Group all pieces of your model together by dragging across to select all (see image on right).  img src="images/group.png" style="float:right;width:220px" alt=group"
+6. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 
     Good Job!
-
-**OPTIONAL: If you would like to modify one of hundreds of VEX parts continue with this optional activity:**
-
-6. Download a ZIP file with all [VEX IQ CAD parts in STEP format](https://link.vex.com/cad/STEP/VEX-IQ-All-Parts-STEP){:target="_blank"} (Zip, 96.27 MB) and Unzip the file.
-
-7. Convert one of the models into STL format:
-- Open the [eMachine Shop](https://convert.emachineshop.com/){:target="_blank"} website, and then click on the blue Upload File button.
-- Select one of the STEP model files you just downloaded and unzipped on your computer.
-    ![Image uploading files](images/tinkercad-import-09.png)
-- Select the “Convert Uploaded File to type” to **STL**.
-- Click on the green **Convert File** button. Once the website has finished converting the STEP file to STL format you can download the file, and then import the STL file into TinkerCad (see Step 3 above).
-
-8. If you’d like to design your VEX compatible parts based on the VEX 2600 structure pieces, you can use the [measurements on this PDF](https://content.vexrobotics.com/docs/276-2600-Structure-Pieces.pdf){:target="_blank"} for reference purposes. Note that the measurements on the PDF are in inches and TinkerCad uses mm, as does the 3D printing software in the DSC. 
 
 <script>  
 
