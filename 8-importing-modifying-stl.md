@@ -30,13 +30,11 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
  - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).<img src="images/45-torus.png" style="float:right;width:220px" alt="white handles rotation">
  - Click on the **Black triangle** above the torus and enter 14mm. (see image on right).<img src="images/14-triangle.png" style="float:right;width:220px" alt=black triangle raise">
  -  Click on the **white handle** at the top of the Torus and then change the height from 15.61mm to 7.5mm.
- -  Click on any of the four white squares around the torus and change the dimensions to length: 7.5mm and width 4.5mm.
- - <img src="images/measurements.png" style="float:right;width:220px" alt=dimensions">
- -  
- - You can now stretch and move the triangle to the shape you would like for your modified part. Below is an example of a modified part where the part was stretched and then copied before moving the additional elements of the model into position (see below):<br>
-  
-
-    <img src="images/tinkercad-import-08.png" style="float:right;width:280px" alt="final product">
+ -  Click on any of the four white squares around the torus and change the dimensions to length: 7.5mm and width 4.5mm. (see image with dimensions)
+ img src="images/measurements.png" style="float:right;width:220px" alt=dimensions"
+- Next move the torus to the back of the frog (see image).
+-  img src="images/frog-loop.png" style="width:220px" alt=frog with loop"
+- 
 5. When you are finished modifying the model, click on the **Export** button on the top right of the toolbar, and then select **.STL** and save the file to your hard drive so it’s ready for the next stage of the 3D printing process.
 
     Good Job!
