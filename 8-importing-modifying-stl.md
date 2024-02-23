@@ -26,12 +26,12 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 4. Modify and customize the model you just imported into TinkerCad. You can use any of the tools you learned to use in the other TinderCad activities to customize this model.<br>
  - Click on the **Torus** Tool and then click on the Workplane where you would like to put it.
  - **Rotate** the torus 45 degrees so that it is standing on end by dragging the curved arrow at the top of the torus (see image on right).
- <img src="images/45-torus.png" style="width:300px" alt="white handles rotation">
+ <img src="images/45-torus.png" style="float:right;width:300px" alt="white handles rotation">
  - Click on the **Black triangle** above the torus and enter 14mm. (see image on right).
  <img src="images/14-triangle.png" style="float:right;width:300px" alt="black triangle raise">
  -  Click on the **white handle** at the top of the Torus and then change the height from 15.61mm to 7.5mm.
  -  Click on any of the four white squares around the torus and change the dimensions to length: 7.5mm and width 4.5mm. (see image with dimensions)
- -   <img src="images/measurements.png" style="width:300px" alt="dimensions">
+ -   <img src="images/measurements.png" style="float:right;width:300px" alt="dimensions">
 - Next move the torus to the back of the frog (see image).
 -  <img src="images/frog-loop.png" style="width:300px" alt="frog with loop">
 
