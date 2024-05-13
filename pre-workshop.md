@@ -8,8 +8,8 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 
 **25 minutes.**<br>
 - Setup a [TinkerCad Account](http://tinkercad.com){:target="_blank"} & follow along with at least the 2nd through 4th videos.
-- [Introduction to TinkerCad](https://www.youtube.com/watch?v=MwjWT-EvKSU){:target="_blank"} (just watch, don’t try to follow along) (3 min)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MwjWT-EvKSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Introduction to TinkerCad](https://www.youtube.com/watch?v=LrU2zm_g7lE){:target="_blank"} (just watch, don’t try to follow along) (3 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LrU2zm_g7lE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [How to move around in TinkerCad](https://www.youtube.com/watch?v=wa37nrj0pH0){:target="_blank"} (1 min)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wa37nrj0pH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Move objects & change the grid](https://www.youtube.com/watch?v=Prpjk8dgf9I){:target="_blank"} (2 min)
