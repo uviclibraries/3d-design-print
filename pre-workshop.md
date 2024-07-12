@@ -22,7 +22,7 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rgnvNXCh-mw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Digital Scholarship Commons VR Tour:**
-<iframe src="https://app.Lumi.education/api/v1/run/ensFPD/embed" width="800" height="600" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://app.Lumi.education/api/v1/run/ensFPD/embed" width="800" height="500" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 [Are You Ready for the Hands-On Workshop? Take the Pre-Workshop Quiz to find out!](http://bit.ly/2Ml9tTP){:target="_blank"}{: .btn .btn-purple }
 
