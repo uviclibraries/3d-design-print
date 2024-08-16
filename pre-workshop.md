@@ -7,9 +7,11 @@ nav_order: 2
 This workshop is primarily hands-on practice with TinkerCad in order to learn to use key features of the software and be able to create your own 3D designs. To participate fully please do the following **before the workshop**:
 
 **25 minutes.**<br>
-- Setup a [TinkerCad Account](http://tinkercad.com){:target="_blank"} & follow along with at least the 2nd through 4th videos.
-- [Introduction to TinkerCad](https://www.youtube.com/watch?v=LrU2zm_g7lE){:target="_blank"} (just watch, don’t try to follow along) (3 min)
+- Setup a [TinkerCad Account](http://tinkercad.com){:target="_blank"}
+- [Introduction to TinkerCad](https://app.Lumi.education/run/WVYCnJ){:target="_blank"} (just watch, don’t try to follow along) (3 min)
 <iframe src="https://app.Lumi.education/api/v1/run/WVYCnJ/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
+- [3D Printers](https://app.Lumi.education/run/zPnWba){:target="_blank"} (7 min)
+<iframe src="https://app.Lumi.education/api/v1/run/zPnWba/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 - [How to move around in TinkerCad](https://www.youtube.com/embed/wa37nrj0pH0){:target="_blank"} (5 min)  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GtvQrYl9Lxc" title="TinkerCad Control View" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
