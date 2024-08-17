@@ -10,7 +10,7 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 - Setup a [TinkerCad Account](http://tinkercad.com){:target="_blank"}
 - [Introduction to TinkerCad](https://app.Lumi.education/run/WVYCnJ){:target="_blank"} (just watch, don’t try to follow along) (3 min)
 <iframe src="https://app.Lumi.education/api/v1/run/WVYCnJ/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
-- [3D Printers](https://app.Lumi.education/run/zPnWba){:target="_blank"} (7 min)
+- [Important 3D Printer Safety Tips](https://app.Lumi.education/run/zPnWba){:target="_blank"} (7 min)
 <iframe src="https://app.Lumi.education/api/v1/run/zPnWba/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
 **OPTIONAL but very helpful videos to anyone new to 3D Design:**
