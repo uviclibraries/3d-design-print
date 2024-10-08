@@ -32,22 +32,22 @@ parent: Workshop Activities
 - Go to [**https://oac.uvic.ca/dsc/how-to-3d-print/**](https://oac.uvic.ca/dsc/how-to-3d-print/){:target="_blank"}
 
 ## Estimating time for 3D printing (optional):
-1.   Go to [**ultimaker.com/software/ultimaker-cura**](ultimaker.com/software/ultimaker-cura){:target="_blank"} to download Ultimaker Cura, the slicing software the DSC uses to send files to our 3D printers
-2.   After installing the software, go to Settings -> Add Printer
+1. Go to [**ultimaker.com/software/ultimaker-cura**](ultimaker.com/software/ultimaker-cura){:target="_blank"} to download Ultimaker Cura, the slicing software the DSC uses to send files to our 3D printers
+2. After installing the software, go to Settings -> Add Printer
 
-  <img src="images/Ultimaker-Cura-1-Settings-Add-Printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Add Printer">
+    <img src="images/Ultimaker-Cura-1-Settings-Add-Printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Add Printer">
 
-3.   Select Ultimaker Printer
+3. Select Ultimaker Printer
 
-  <img src="images/Ultimaker-Cura-2-Ultimaker-Printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Ultimaker Printer">
+    <img src="images/Ultimaker-Cura-2-Ultimaker-Printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Ultimaker Printer">
   
-4.   Select Add local printer
+4. Select Add local printer
 
-  <img src="images/Ultimaker-Cura-3-Add-local-printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Add local printer">
+    <img src="images/Ultimaker-Cura-3-Add-local-printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Add local printer">
 
-5.   Select Add a non-networked printer, Ultimaker S5 (the first result)
+5. Select Add a non-networked printer, Ultimaker S5 (the first result)
 
-  <img src="images/Ultimaker-Cura-4-Add-a-non-networked-printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Ultimaker S5">
+    <img src="images/Ultimaker-Cura-4-Add-a-non-networked-printer.png" style="height:420px;" alt="Ultimaker Cura Setup - Ultimaker S5">
 
 
 
