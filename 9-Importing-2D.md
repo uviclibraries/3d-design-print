@@ -21,7 +21,7 @@ NOTE: no responsibility for the accuracy of the VEX 3d parts for 3rd party websi
 3. Download and import an STL model file into TinkerCad. 
 - Click [this link to find a downloadable duck.](https://game-icons.net/1x1/delapouite/plastic-duck.html){:target="_blank"} Click the **SVG** button on the right side of the webpage to download the svg file. 
     -  _Note: TinkerCAD will not import .png or other types of image file, so make sure you download the correct file type!_ 
-    -   You can also use a program like Inkscape to [convert an image to svg](https://docs.google.com/document/d/1HN7EW7bgU1e_EtFqS2a65FwQNgY3sPT73x4TOv8An0E/edit)
+    -   You can also use a program like Inkscape to [convert an image to svg](https://docs.google.com/document/d/1HN7EW7bgU1e_EtFqS2a65FwQNgY3sPT73x4TOv8An0E/edit){:target="_blank"}
 - In TinkerCad click on the grey **Import** button on the top right of the screen, and then find and select the SVG file you just downloaded. Set the **scale** to **20%**, then click on the **Import** button.
 
     <button onclick="toggle('gif1')">Show/Hide Animation</button>
