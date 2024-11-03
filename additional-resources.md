@@ -5,6 +5,13 @@ nav_order: 14
 ---
 # Additional Resources & Acknowledgements
 
+## Frameworks and Curriculum
+- [BC Digital Literacy Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"}
+- [BC Digital Post secondary Framework](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/bc_post-secondary_digital_literacy_framework.pdf){:target="_blank"}
+
+## Troubleshooting help
+- [Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/){:target="_blank"}
+
 ## 3D Print and Design with TinkerCad Resources
 - [Thingiverse](https://www.thingiverse.com/){:target="_blank"}
 - [Printables](https://www.printables.com/model){:target="_blank"}
@@ -16,7 +23,10 @@ nav_order: 14
 ## Acknowledgements
 
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/), for their assistance with the Jekyll template for GitHub Pages.
-- [Rich McCue](https://richmccue.com/){:target="_blank"}
-- Brittany Johnson -animated Gifs 
+- [UVic Library -Digital Scholarship Commons](https://uviclibraries.github.io/3d-design-print/) for their template. 
+
+## Contacts  
+- Brittany Johnson 
+- Krystal Yang
 
 [NEXT STEP: Land acknowledgement](land-acknowledgement.html){: .btn .btn-blue }
