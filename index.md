@@ -6,7 +6,7 @@ nav_order: 1
 <img src="images/tinkercad-logo.png" style="float:right;width:350px;height:220px;"> 
 
 # Introduction to 3D Design and Print for Elementary Education
-This workshop is intended for educators in Elementary Education (Kindergarten to Grade 5) and focuses on the [British Columbia curriculum](https://curriculum.gov.bc.ca/){:target="_blank"} as well as the [BC Digital Learning Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"} but can be modified for your specific contexts, frameworks and curriculums. 
+This workshop is intended for educators in Elementary Education (Kindergarten to Grade 5) and focuses on the [British Columbia curriculum](https://curriculum.gov.bc.ca/){:target="_blank"} as well as the [BC Digital Learning Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"} but can be modified for your specific contexts, frameworks and curriculums. Our goal is to provide accessible Open Educational Ressources to support teachers to intergrate technology such as 3D design and printing into their practice. We also hope to share our expertise, by including our contact information and those of other websites that can act as support during your learning process. These workshops can be done on your own time, but will also be shared during various Professional Development days and conferences. 
 
 ## Why 3D printing for Elementary Education 
 There are many benefits to 3D printing that can be further found in our research paper. 
