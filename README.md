@@ -1,5 +1,5 @@
-# 3D Design and Print with TinkerCad
-### UVic Libraries Digital Scholarship Commmons
+# 3D Design and Print in Elementary Education
+### 3D printing
 
 Link to workshop: https://3d-education.github.io/3d-printing/
 
