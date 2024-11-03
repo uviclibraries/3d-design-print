@@ -2,7 +2,7 @@ title: 3D Design & Print in Elementary Education
 remote_theme: pmarsceill/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/3d-design-print" # the github URL for your repo
+gh_edit_repository: "https://github.com/3d-education/3d-printing/" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "master" # the branch that your docs is served from
