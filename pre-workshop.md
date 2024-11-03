@@ -8,8 +8,9 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 
 **10 minutes.**<br>
 - Setup a [TinkerCad Account](http://tinkercad.com){:target="_blank"}
-- [Introduction to TinkerCad](https://app.Lumi.education/run/WVYCnJ){:target="_blank"} (just watch, don’t try to follow along) (3 min)
-<iframe src="https://app.Lumi.education/api/v1/run/WVYCnJ/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
+- [Introduction to TinkerCad Education Classroom Account](https://www.youtube.com/watch?v=X3tHNHlFH8o){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3tHNHlFH8o?si=VXe7buuueTH6ML5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - [Important 3D Printer Safety Tips](https://app.Lumi.education/run/zPnWba){:target="_blank"} (7 min)
 <iframe src="https://app.Lumi.education/api/v1/run/zPnWba/embed" width="560" height="380" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe>
 
