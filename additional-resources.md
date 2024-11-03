@@ -7,7 +7,7 @@ nav_order: 14
 
 ## Frameworks and Curriculum
 - [BC Digital Literacy Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"}
-- [BC Digital Post secondary Framework](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/bc_post-secondary_digital_literacy_framework.pdf){:target="_blank"}
+- [BC Digital Post Secondary Framework](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/bc_post-secondary_digital_literacy_framework.pdf){:target="_blank"}
 
 ## Troubleshooting help
 - [Troubleshooting Guide](https://www.simplify3d.com/resources/print-quality-troubleshooting/){:target="_blank"}
