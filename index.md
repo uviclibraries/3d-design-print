@@ -9,7 +9,8 @@ nav_order: 1
 This workshop is intended for educators in Elementary Education (Kindergarten to Grade 5) and focuses on the [British Columbia curriculum](https://curriculum.gov.bc.ca/){:target="_blank"} as well as the [BC Digital Learning Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"} but can be modified for your specific contexts, frameworks and curriculums. Our goal is to provide accessible Open Educational Ressources to support teachers to intergrate technology such as 3D design and printing into their practice. We also hope to share our expertise, by including our contact information and those of other websites that can act as support during your learning process. These workshops can be done on your own time, but will also be shared during various Professional Development days and conferences. 
 
 ## Why 3D printing for Elementary Education 
-There are many benefits to 3D printing that can be further found in our research paper. 
+There are many benefits to 3D printing that can be further found in our research paper. 3D printing meets many of the BC curriculum Core competencies such as critical and reflective thinking. For instance it is important for **"students and teachers to take risks and recognize that I may not immediately be successful" (BC curriculum)**
+
 According to Lee & Kwon (2023), the following are some of the key benefits.
 1. 3D models can help create knowledge and emphasizes that we are all able to create and design. Students and teachers can thus use 3D models to show abstract ideas.
 2. Students can use STEM skills such as designing, creating and modifying prototypes. Thus they are able to learn from their mistakes and visualize their errors.
