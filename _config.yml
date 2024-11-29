@@ -1,8 +1,8 @@
-title: 3D Design & Print with TinkerCad
+title: 3D Printing in Elementary
 remote_theme: pmarsceill/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
-gh_edit_repository: "https://github.com/uviclibraries/3d-design-print" # the github URL for your repo
+gh_edit_repository: "https://github.com/3d-education/3d-printing/" # the github URL for your repo
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
 gh_edit_branch: "master" # the branch that your docs is served from
@@ -13,10 +13,6 @@ gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into t
 license_name: "Creative Commons Attribution 4.0 International License"
 license_url: "http://creativecommons.org/licenses/by/4.0/"
 license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
-
-aux_links:
-  "UVic Libraries Digital Scholarship Commons":
-    - "//uvic.ca/library/dsc"
 
 aux_links_new_tab: true
 
