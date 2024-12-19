@@ -17,7 +17,7 @@ According to Lee & Kwon (2023), the following are some of the key benefits.
 3. Students and teachers can communicate their learning using diverse tools. Instead of just speaking, writing and drawing. 3D printing can become more accessible for all to be creators.
 4. 3D design and print can be empowering to those with learning diversities. For instance, visually impaired students may benefit from printing braille and 3D designs, students with learning disabilities could benefit from the 3D world and manipulation and language learners could benefit from printing letters in their own language, which could help support language revitalization.
 
-All in all, 3D printing can thus make learning more inclusive by providing a different means of communication to our learners and giving access to be a creator and designer by using a tool they may later encounteer in their future workplace.
+All in all, 3D printing can thus make learning more inclusive by providing a different means of communication to our learners and giving access to be a creator and designer by using a tool they may later encounter in their future workplace.
   
 ## Why TinkerCad? 
 
