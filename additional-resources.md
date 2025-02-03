@@ -35,7 +35,7 @@ nav_order: 14
 ## Contacts  
 - [Brittany Johnson](brjohnson@sd61.bc.ca){:target="_blank"}
     - [Blog](https://brittanyseducblog.opened.ca/){:target="_blank"}
-- [Krystal Yang](kryang@sd43.bc.ca]{:target="_blank"}
+- [Krystal Yang](kryang@sd43.bc.ca){:target="_blank"}
     - [Blog](https://liltechteacher.opened.ca/){:target="_blank"}
 - [Clay Howlett](chowlett@sd61.bc.ca){:target="_blank"}
       - [Blog](https://integrating3dprint.opened.ca/){:target="_blank"} and [Project](https://dspace.library.uvic.ca/items/50b2358a-8de1-4a08-bbad-03a94eb16317){:target="_blank"}
