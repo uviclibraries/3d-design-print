@@ -4,7 +4,8 @@ title: Additional Resources
 nav_order: 14
 ---
 # Additional Resources & Acknowledgements
-
+- [Applications for Indigenous Ways of Knowing](https://aboriginalresourcesforteachers.weebly.com/digital-resources.html){:target="_blank"}
+  
 ## Frameworks and Curriculum
 - [BC Digital Literacy Framework](https://www2.gov.bc.ca/assets/gov/education/kindergarten-to-grade-12/teach/teaching-tools/digital-literacy-framework.pdf){:target="_blank"}
 - [BC Digital Post Secondary Framework](https://www2.gov.bc.ca/assets/gov/education/post-secondary-education/institution-resources-administration/digital-learning-strategy/bc_post-secondary_digital_literacy_framework.pdf){:target="_blank"}
