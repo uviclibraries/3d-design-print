@@ -1,5 +1,5 @@
 title: 3D Design & Print with TinkerCad
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_repository: "https://github.com/uviclibraries/3d-design-print" # the github URL for your repo
@@ -39,4 +39,6 @@ ga_tracking: G-J1P4V8MFWB
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
