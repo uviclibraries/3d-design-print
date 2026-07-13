@@ -10,8 +10,8 @@ nav_order: 14
 - [MakerWorld](https://makerworld.com/en){:target="_blank"}
 - [Thingiverse](https://www.thingiverse.com/){:target="_blank"}
 - [NASA's 3D Resources](https://science.nasa.gov/3d-resources/){:target="_blank"}
-- [MorphoSource](https://www.morphosource.org/){:target"_blank"}
-- [Sketchfab museum collections](https://sketchfab.com/members?segment=organization%2Fmuseum&sort_by=-followerCount&cursor=cD02NDQ%3D){:target"_blank"}
+- [MorphoSource](https://www.morphosource.org/){:target="_blank"}
+- [Sketchfab museum collections](https://sketchfab.com/members?segment=organization%2Fmuseum&sort_by=-followerCount&cursor=cD02NDQ%3D){:target="_blank"}
 
 ## 3D Model Generators
 - [GeoGebra: Make 3D graphs with downloadable .stl files](https://www.geogebra.org/3d?lang=en){:target="_blank"}
