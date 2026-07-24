@@ -16,6 +16,7 @@ nav_order: 14
 ## 3D Model Generators
 - [GeoGebra: Make 3D graphs with downloadable .stl files](https://www.geogebra.org/3d?lang=en){:target="_blank"}
 - [MakerLab Generators](https://makerworld.com/en/makerlab){:target="_blank"}
+    - [MakerLab Parametric Generators](https://makerworld.com/en/makerlab/parametricModelMaker?pageType=home){:target="_blank"}
 
 ## Tutorials & Ideas
 - [Instructables: 3D Print an Earthquake](https://www.instructables.com/3D-Print-an-Earthquake/){:target="_blank"}
