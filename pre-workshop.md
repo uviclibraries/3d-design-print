@@ -26,6 +26,6 @@ This workshop is primarily hands-on practice with TinkerCad in order to learn to
 - [Rotate objects](https://www.youtube.com/watch?v=6Q7FuNuhBNY){:target="_blank"} (4 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Q7FuNuhBNY" title="TinkerCad Rotate Shapes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Are You Ready for the Hands-On Workshop? Take the Pre-Workshop Quiz to find out!](http://bit.ly/2Ml9tTP){:target="_blank"}{: .btn .btn-purple }
+[Are You Ready for the Hands-On Workshop? Take the Pre-Workshop Quiz to find out!](https://docs.google.com/forms/d/e/1FAIpQLSdsHzy4zFcPv0nF9JM3-d0wueUSovKtqxre4ol4CnIOMPZKOA/viewform){:target="_blank"}{: .btn .btn-purple }
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
