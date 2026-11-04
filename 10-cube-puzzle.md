@@ -16,7 +16,7 @@ If you and your group have any questions or get stuck as you work through this i
     <img src="images/tinkercad-puzzle-01.png" style="float:right;width:200px;" alt="resizing a block in tinkercad">
 5. We need to resize the blocks to a smaller size to make them easier to work with. To start doing this click on the block, and then (A) click on the **white dot** on one of the corners of the block (which will then turn red). (B) click on the **20.00** and change the number to “10” and then press the enter key, and the block will change size. Do the same to the top white dot to change the height of the block to **10.00**. 
 6. <img src="images/tinkercad-puzzle-02.png" style="float:right;width:220px;height:220px;" alt="block attributes menu"> With the block selected, in the **Box** settings menu, change the **Radius** to **0.5**.  
-7. Now we need to copy and rotate the rectagle blocks. Click on the block to make sure it is selected. You can use **Ctrl + C** and **Ctrl + V** on Windows or **Command + C** and **Command + V** on Apple (key combination on your keyboard) to copy and paste the block. To rotate the block, use the rounded handle that is hovering above the block. 
+7. Now we need to copy and rotate the rectangle blocks. Click on the block to make sure it is selected. You can use **Ctrl + C** and **Ctrl + V** on Windows or **Command + C** and **Command + V** on Apple (key combination on your keyboard) to copy and paste the block. To rotate the block, use the rounded handle that is hovering above the block. 
 
     <img src="images/tinkercad-puzzle-03.png" style="width:220px;height:220px;" alt="copied and rotated blocks in tinkercad">
 
